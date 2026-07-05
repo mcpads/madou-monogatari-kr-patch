@@ -158,13 +158,13 @@ Claude Code를 활용하여 리버싱/번역하고, 사람이 기초 검수를 �
 ### 적용 방법 (J)
 
 1. **원본 ROM**을 준비합니다 (BIN/CUE 형식, 아래 체크섬으로 올바른 파일인지 확인)
-2. [Madou Monogatari (Sega Saturn) KR v1.0.0.bps](https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/Madou%20Monogatari%20(Sega%20Saturn)%20KR%20v1.0.0.bps)를 다운로드합니다
+2. [Madou Monogatari (Sega Saturn) KR v1.1.0.bps](https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/Madou%20Monogatari%20(Sega%20Saturn)%20KR%20v1.1.0.bps)를 다운로드합니다
 3. [Floating IPS (Flips)](https://www.smwcentral.net/?p=section&a=details&id=11474) 등 BPS 패처로 원본 BIN 파일에 한글 패치를 적용합니다
 
 ### 적용 방법 (U)
 
 1. **원본 ROM**을 준비합니다 (BIN/CUE 형식, 아래 체크섬으로 올바른 파일인지 확인)
-2. [Madou Monogatari (U) (Sega Saturn) KR v1.0.0.bps](https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/Madou%20Monogatari%20(U)%20(Sega%20Saturn)%20KR%20v1.0.0.bps)를 다운로드합니다
+2. [Madou Monogatari (U) (Sega Saturn) KR v1.1.0.bps](https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/Madou%20Monogatari%20(U)%20(Sega%20Saturn)%20KR%20v1.1.0.bps)를 다운로드합니다
 3. [Floating IPS (Flips)](https://www.smwcentral.net/?p=section&a=details&id=11474) 등 BPS 패처로 원본 BIN 파일에 한글 패치를 적용합니다
 
 ### 체크섬 (J)
@@ -178,21 +178,21 @@ Claude Code를 활용하여 리버싱/번역하고, 사람이 기초 검수를 �
 | SHA-1    | `a3a4a727c91aa7c2eec8795457459bf6f1297721`   |
 | 크기     | 146,661,312 bytes (140 MB, BIN/CUE Track 01) |
 
-#### KR 패치 파일 — Madou Monogatari (Sega Saturn) KR v1.0.0.bps
+#### KR 패치 파일 — Madou Monogatari (Sega Saturn) KR v1.1.0.bps
 
 | 알고리즘 | 해시                                       |
 | -------- | ------------------------------------------ |
 | CRC32    | `2144DF1C`                                 |
-| MD5      | `67bdbba116b23d70595a7084a449f977`         |
-| SHA-1    | `1d2ca16358b37d4e41648d1528208e8e90f2a5c6` |
-| 크기     | 4,467,344 bytes (4.3 MB)                   |
+| MD5      | `fa90c33ffe9926f3f86deb72886fe264`         |
+| SHA-1    | `22228645347b98245a984c03b931351680c21f1b` |
+| 크기     | 4,467,371 bytes (4.3 MB)                   |
 
-#### KR 패치 적용 후 — Madou Monogatari (Sega Saturn) KR v1.0.0.bin
+#### KR 패치 적용 후 — Madou Monogatari (Sega Saturn) KR v1.1.0.bin
 
 | 알고리즘 | 해시                               |
 | -------- | ---------------------------------- |
-| CRC32    | `85850FF0`                         |
-| MD5      | `b6d81ebcb668b98eb4de5d8d942ffc98` |
+| CRC32    | `7CC56BE7`                         |
+| MD5      | `ac09a9d667e529423722fa3dc1534136` |
 | 크기     | 146,661,312 bytes (140 MB)         |
 
 ### 체크섬 (U)
@@ -206,21 +206,21 @@ Claude Code를 활용하여 리버싱/번역하고, 사람이 기초 검수를 �
 | SHA-1    | `e60b8ff5d9acc3366a36b1101013f529f722942d`   |
 | 크기     | 146,308,512 bytes (139 MB, BIN/CUE Track 01) |
 
-#### KR 패치 파일 — Madou Monogatari (U) (Sega Saturn) KR v1.0.0.bps
+#### KR 패치 파일 — Madou Monogatari (U) (Sega Saturn) KR v1.1.0.bps
 
 | 알고리즘 | 해시                                       |
 | -------- | ------------------------------------------ |
 | CRC32    | `2144DF1C`                                 |
-| MD5      | `c7f4af8c858584ef67fb8d7ee11134c8`         |
-| SHA-1    | `5f966d6f4289f1c1640cc7fa55b17f06bb65886e` |
-| 크기     | 4,467,496 bytes (4.3 MB)                   |
+| MD5      | `51f004ebe89918dad1f2bd6b3627d1c4`         |
+| SHA-1    | `d896b48211b4a0c5720c898e1787271961d6c2c7` |
+| 크기     | 4,467,523 bytes (4.3 MB)                   |
 
-#### KR 패치 적용 후 — Madou Monogatari (U) (Sega Saturn) KR v1.0.0.bin
+#### KR 패치 적용 후 — Madou Monogatari (U) (Sega Saturn) KR v1.1.0.bin
 
 | 알고리즘 | 해시                               |
 | -------- | ---------------------------------- |
-| CRC32    | `8F12747B`                         |
-| MD5      | `644f970617b7260a68e79f7242a86832` |
+| CRC32    | `36BFE518`                         |
+| MD5      | `504782a25083d31a3c4de34fdf2b7391` |
 | 크기     | 146,308,512 bytes (139 MB)         |
 
 ### 패치 정보
@@ -228,9 +228,6 @@ Claude Code를 활용하여 리버싱/번역하고, 사람이 기초 검수를 �
 - 시나리오/이벤트 대사 번역, 시스템 UI 한글화
 - 한글 폰트: [Galmuri](https://github.com/quiple/galmuri) (대화, 메뉴 탭), [MaplestoryBold](https://maplestory.nexon.com/Media/Font) (프롤로그, 레벨업), [Dalmoori](https://github.com/RanolP/dalmoori-font) (전투 UI)
 - [패쳐 코드베이스](https://github.com/mcpads/ss-madou-kr-patcher)
-
-### 발견된 문제 (수정 중)
-- 라그나스에게 질문을 하는 선택지에서 게임 진행이 불가능한 문제가 있습니다.
 
 ### 크레딧
 
@@ -308,7 +305,7 @@ Claude Code를 활용하여 리버싱/번역하고, 사람이 기초 검수를 �
 
 ## 번역 예정 작품
 
-### 와쿠와쿠 뿌요뿌요 던전 (PS1)
+### 와쿠와쿠 뿌요뿌요 던전 - 완전판 (PS1)
 
 진행 중입니다.
 
@@ -390,6 +387,7 @@ Claude Code를 활용하여 리버싱/번역하고, 사람이 기초 검수를 �
 | v0.4.0 | 2026-03-11 | 마도물어 (세가 새턴)               | 시스템 UI 추가 번역                                                 |
 | v1.0.0 | 2026-03-17 | 마도물어 (세가 새턴)               | 정식 배포                                                           |
 | v0.1.0 | 2026-03-24 | 와쿠와쿠 뿌요뿌요 던전 (세가 새턴) | 베타 배포                                                           |
+| v1.1.0 | 2026-07-05 | 마도물어 (세가 새턴)               | 선택지 진행 불가 및 텍스트 오버플로우 수정                          |
 
 ## 라이선스
 
