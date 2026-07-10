@@ -307,7 +307,7 @@ Claude Code를 활용하여 리버싱/번역하고, 사람이 기초 검수를 �
 
 세가 게임기어 **마도물어 I (魔導物語 I - 3つの魔導球)** 한글 번역 패치입니다.
 
-> ⚠️ **베타 배포 (v0.1.0)**: 게임 전반은 정상 플레이 가능하나 최종 인게임 검수가 진행 중입니다. 어색한 번역·표기·그래픽 문제는 제보해 주세요.
+> ⚠️ **베타 배포 (v0.2.0)**: 전체 번역을 수록했으나 사람 최종 검수와 최종 인게임 검수가 진행 중입니다. 어색한 번역·표기·그래픽 문제나 진행 문제는 제보해 주세요.
 
 참고: [마도물어 I - 나무위키](https://namu.wiki/w/%EB%A7%88%EB%8F%84%EB%AC%BC%EC%96%B4#s-3)
 
@@ -318,9 +318,8 @@ Claude Code를 활용하여 리버싱/번역하고, 사람이 기초 검수를 �
 ### 적용 방법
 
 1. **일본판 원본 ROM**을 준비합니다 (아래 체크섬으로 올바른 파일인지 확인)
-2. 게임기어 영문 번역 패치([romhacking.net](https://www.romhacking.net/))를 원본 ROM에 적용해 아래 **ENG 패치 ROM** 체크섬(English v1.0, Hardware Fix)과 일치시킵니다
-3. [Madou Monogatari I (Game Gear) KR v0.1.0.bps](https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/Madou%20Monogatari%20I%20(Game%20Gear)%20KR%20v0.1.0.bps)를 다운로드합니다
-4. [Floating IPS (Flips)](https://github.com/Alcaro/Flips) 등 BPS 패처로 영어판 ROM에 한글 패치를 적용합니다
+2. [Madou Monogatari I (Game Gear) KR v0.2.0.bps](https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/Madou%20Monogatari%20I%20(Game%20Gear)%20KR%20v0.2.0.bps)를 다운로드합니다
+3. [Floating IPS (Flips)](https://github.com/Alcaro/Flips) 등 BPS 패처로 **일본판 원본 ROM**에 한글 패치를 직접 적용합니다
 
 ### 체크섬
 
@@ -334,34 +333,24 @@ Claude Code를 활용하여 리버싱/번역하고, 사람이 기초 검수를 �
 | SHA-256  | `4a87f02f358688bc7680d0d34f527e10a087fec95dbf7ed131241d8ffe4c0654` |
 | 크기     | 524,288 bytes (512 KB)                                             |
 
-#### ENG 패치 ROM — Madou Monogatari I (English v1.0) [Hardware Fix].gg
-
-| 알고리즘 | 해시                                                               |
-| -------- | ------------------------------------------------------------------ |
-| CRC32    | `D9088BE1`                                                         |
-| MD5      | `7319150b85d69519c0ff299d5c65999d`                                 |
-| SHA-1    | `52dbfd0550f97c35848d48a2ca6a8d030cef2af3`                         |
-| SHA-256  | `41be5b13ef7eb3ff9811606965066fc3994ddf470f7e2cb91555db37abac280c` |
-| 크기     | 1,048,576 bytes (1 MB)                                             |
-
-#### KR 패치 파일 — Madou Monogatari I (Game Gear) KR v0.1.0.bps
+#### KR 패치 파일 — Madou Monogatari I (Game Gear) KR v0.2.0.bps
 
 | 알고리즘 | 해시                                                               |
 | -------- | ------------------------------------------------------------------ |
 | CRC32    | `2144DF1C`                                                         |
-| MD5      | `47ae166705562fb0b59561ea39b3a8e3`                                 |
-| SHA-1    | `11a7d0989c067381ca4d774fb2f231a94fcc3127`                         |
-| SHA-256  | `c5aa78871a5e92309ce25d6ca7dc4a6b53219ade8ea59be3cff38b95c30883f5` |
-| 크기     | 54,398 bytes (53 KB)                                               |
+| MD5      | `92a8922e9f106ff674edee96bacd414e`                                 |
+| SHA-1    | `59695e364f630210af01bdd7c27035c5b8eacc84`                         |
+| SHA-256  | `de2a1826a3be7b068bd35d32d566e869e7902455a6101f4946f3dcdef2cbb5b1` |
+| 크기     | 526,058 bytes (514 KB)                                              |
 
-#### KR 패치 적용 후 — Madou Monogatari I (Game Gear) KR v0.1.0.gg
+#### KR 패치 적용 후 — Madou Monogatari I (Game Gear) KR v0.2.0.gg
 
 | 알고리즘 | 해시                                                               |
 | -------- | ------------------------------------------------------------------ |
-| CRC32    | `8529734B`                                                         |
-| MD5      | `209909228fdb3a46003813dd3ecbf27e`                                 |
-| SHA-1    | `5928d2146110e75ab37d3db06f8a246fde984939`                         |
-| SHA-256  | `79e9ae808a2466a39cde644045adc9b1a91cf4badb58c4927df5ca9199514b0e` |
+| CRC32    | `7398A28C`                                                         |
+| MD5      | `d4cfe7f684f2342e9b776a3616cfc808`                                 |
+| SHA-1    | `e416ea8bebe53276f05b6e39b2f271d115f7a407`                         |
+| SHA-256  | `103dda73669d95e04e98adb68ab71d75b7b655ff6ee1ea5d091b9f0199d72860` |
 | 크기     | 1,048,576 bytes (1 MB)                                             |
 
 ### 진행 상황
@@ -376,8 +365,7 @@ Claude Code를 활용하여 리버싱/번역하고, 사람이 기초 검수를 �
 
 ### 패치 정보
 
-- 시나리오/이벤트 대사 번역, 시스템 UI 한글화
-- 영어판 번역 패치 롬(English v1.0, Hardware Fix) 위에 적용
+- 시나리오/이벤트 대사 및 시스템 UI 한글화
 - 한글 폰트: [Dalmoori](https://github.com/RanolP/dalmoori-font) 8px 비트맵
 
 ### 크레딧
@@ -386,14 +374,14 @@ Claude Code를 활용하여 리버싱/번역하고, 사람이 기초 검수를 �
 - **리버싱**: mcpads (with Claude Code)
 - **한글 번역**: Claude Code (Opus 4.8)
 - **QA**: mcpads
-- **영어 번역 (베이스)**: 게임기어 영문 번역 패치 (English v1.0, Hardware Fix)
+- **역공학 참고**: 게임기어 영문 번역 패치 (English v1.0, Hardware Fix)
 - **원작**: Compile (1993)
 
 ## 마도물어 II — 게임기어 (베타)
 
 세가 게임기어 **마도물어 II - 아르르 16세 (魔導物語 II - アルル16才)** 한글 번역 패치입니다.
 
-> ⚠️ **베타 배포 (v0.1.0)**: 게임 전반은 정상 플레이 가능하나 최종 인게임 검수가 진행 중입니다. 어색한 번역·표기·그래픽 문제는 제보해 주세요.
+> ⚠️ **베타 배포 (v0.2.0)**: 게임 전반은 정상 플레이 가능하나 최종 인게임 검수가 진행 중입니다. 어색한 번역·표기·그래픽 문제는 제보해 주세요.
 
 참고: [마도물어 - 나무위키](https://namu.wiki/w/%EB%A7%88%EB%8F%84%EB%AC%BC%EC%96%B4)
 
@@ -404,7 +392,7 @@ Claude Code를 활용하여 리버싱/번역하고, 사람이 기초 검수를 �
 ### 적용 방법
 
 1. **일본판 원본 ROM**을 준비합니다 (아래 체크섬으로 올바른 파일인지 확인)
-2. [Madou Monogatari II (Game Gear) KR v0.1.0.bps](https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/Madou%20Monogatari%20II%20(Game%20Gear)%20KR%20v0.1.0.bps)를 다운로드합니다
+2. [Madou Monogatari II (Game Gear) KR v0.2.0.bps](https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/Madou%20Monogatari%20II%20(Game%20Gear)%20KR%20v0.2.0.bps)를 다운로드합니다
 3. [Floating IPS (Flips)](https://github.com/Alcaro/Flips) 등 BPS 패처로 **일본판 원본 ROM**에 한글 패치를 직접 적용합니다
 
 ### 체크섬
@@ -419,24 +407,24 @@ Claude Code를 활용하여 리버싱/번역하고, 사람이 기초 검수를 �
 | SHA-256  | `9da7d65d1772ae9b5fa71cee68b19f78bfc4848451ad6bbb5662498b2dbb997a` |
 | 크기     | 524,288 bytes (512 KB)                                             |
 
-#### KR 패치 파일 — Madou Monogatari II (Game Gear) KR v0.1.0.bps
+#### KR 패치 파일 — Madou Monogatari II (Game Gear) KR v0.2.0.bps
 
 | 알고리즘 | 해시                                                               |
 | -------- | ------------------------------------------------------------------ |
 | CRC32    | `2144DF1C`                                                         |
-| MD5      | `e5fc03b1e3f9aee9efef0279b0813a44`                                 |
-| SHA-1    | `123ef779e8834a5dd2cca900d3cc5d574fc45aba`                         |
-| SHA-256  | `cd0fa730d9213c7f80b37dfb955bbf86f711b4c53ff7373565bd4aa120fd4724` |
+| MD5      | `0e06beb70caae2c4b288004953f0fca5`                                 |
+| SHA-1    | `7e2b9091cb5418fbc596f4ba2c386495a554e5a2`                         |
+| SHA-256  | `77329491815381b359b3cb4a4b80ffd9becb7aefbf59215f701d4e32df3e633b` |
 | 크기     | 526,503 bytes (514 KB)                                             |
 
-#### KR 패치 적용 후 — Madou Monogatari II (Game Gear) KR v0.1.0.gg
+#### KR 패치 적용 후 — Madou Monogatari II (Game Gear) KR v0.2.0.gg
 
 | 알고리즘 | 해시                                                               |
 | -------- | ------------------------------------------------------------------ |
-| CRC32    | `DB1F8194`                                                         |
-| MD5      | `d87a9a228273c6bd8b0da782bbeb2f8e`                                 |
-| SHA-1    | `b3c4d7c57fd1f9ce10e3561fd382464180fff6c7`                         |
-| SHA-256  | `91970e5ade3656664033650824e6cc61494c1d4e908622a51a023c7855588da4` |
+| CRC32    | `E395CBD4`                                                         |
+| MD5      | `3018e98a4fe0ce91353b925d92192d03`                                 |
+| SHA-1    | `ec283c62f00ce366fb88b0dc699e790add241559`                         |
+| SHA-256  | `4ed6eb98e40b18f83dbe0c05b3973703b28a65263b47df6fa338005737229288` |
 | 크기     | 1,048,576 bytes (1 MB)                                             |
 
 ### 진행 상황
@@ -533,21 +521,76 @@ Claude Code를 활용하여 리버싱/번역하고, 사람이 기초 검수를 �
 - **QA**: mcpads
 - **원작**: Compile (1994)
 
+## 마도물어 A — 게임기어 (베타)
+
+세가 게임기어 **마도물어 A (魔導物語A どきどきばけ〜しょん)** 한글 번역 패치입니다.
+
+> ⚠️ **베타 배포 (v0.1.0)**: 전체 번역을 수록했으나 사람 최종 검수와 최종 인게임 검수가 진행 중입니다. 어색한 번역·표기·그래픽 문제나 진행 문제는 제보해 주세요.
+
+참고: [마도물어 - 나무위키](https://namu.wiki/w/%EB%A7%88%EB%8F%84%EB%AC%BC%EC%96%B4)
+
+![gg-madoua-screenshot-1](/img/gg-madoua-screenshot-1.png)
+
+![gg-madoua-screenshot-2](/img/gg-madoua-screenshot-2.png)
+
+### 적용 방법
+
+1. **일본판 원본 ROM**을 준비합니다 (아래 체크섬으로 올바른 파일인지 확인)
+2. [Madou Monogatari A (Game Gear) KR v0.1.0.bps](https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/Madou%20Monogatari%20A%20(Game%20Gear)%20KR%20v0.1.0.bps)를 다운로드합니다
+3. [Floating IPS (Flips)](https://github.com/Alcaro/Flips) 등 BPS 패처로 **일본판 원본 ROM**에 한글 패치를 직접 적용합니다
+
+### 체크섬
+
+#### 원본 ROM — Madou Monogatari A - Dokidoki Vacation (Japan).gg
+
+| 알고리즘 | 해시                                                               |
+| -------- | ------------------------------------------------------------------ |
+| CRC32    | `7EC95282`                                                         |
+| MD5      | `ab0d1eb20ac63a984d874a885ca2588d`                                 |
+| SHA-1    | `c027aa76fe0e09a2d1b982eea0df2c8b687aadf7`                         |
+| SHA-256  | `6679b88d3db2ca62a78b1904cfe8364f7e6d5d74ffda27b7dbe49417ed2d02ec` |
+| 크기     | 524,288 bytes (512 KB)                                             |
+
+#### KR 패치 파일 — Madou Monogatari A (Game Gear) KR v0.1.0.bps
+
+| 알고리즘 | 해시                                                               |
+| -------- | ------------------------------------------------------------------ |
+| CRC32    | `2144DF1C`                                                         |
+| MD5      | `e7249d6db45b10c11b7acdfd5bf813d3`                                 |
+| SHA-1    | `f94b9c08f7169a218b636e23e8d5d6b9cc115db5`                         |
+| SHA-256  | `97b1ecfe99ea5f4e03daae0f68831b4f43449651c82086a571c1d7f26cc08d73` |
+| 크기     | 529,922 bytes (518 KB)                                             |
+
+#### KR 패치 적용 후 — Madou Monogatari A (Game Gear) KR v0.1.0.gg
+
+| 알고리즘 | 해시                                                               |
+| -------- | ------------------------------------------------------------------ |
+| CRC32    | `A581A0DF`                                                         |
+| MD5      | `6d2b2c79f69231d01f83f75c43966efa`                                 |
+| SHA-1    | `fcac653b65b4c25684bb8254490d8c714176b801`                         |
+| SHA-256  | `79203d5f751db6540d708041531a23b0da694f00d88b995adac3a1404fe68bb3` |
+| 크기     | 1,048,576 bytes (1 MB)                                             |
+
+### 패치 정보
+
+- 일본판 원본에 직접 적용하는 JP→KR BPS
+- 시나리오/이벤트 대사 번역, 시스템 UI 한글화
+- 한글 폰트: [Dalmoori](https://github.com/RanolP/dalmoori-font) 8px 비트맵
+
+### 크레딧
+
+- **패치 제작자**: mcpads
+- **리버싱**: mcpads (with Claude Code, Codex)
+- **한글 번역**: Claude Code (Opus 4.8), Codex (GPT-5.6 sol)
+- **QA**: mcpads
+- **역공학 참고**: [madouaggtools](https://github.com/suppertails66/madouaggtools) (Supper/Filler 영문 패치)
+- **원작**: Compile (1996)
+
 ## 번역 예정 작품
 
 ### 와쿠와쿠 뿌요뿌요 던전 - 완전판 (PS1)
 
 진행 중입니다.
-
-- [x] 일본어 폰트 추출 및 테이블 완성
-- [x] 시나리오 텍스트 추출
-- [x] 시나리오 및 이벤트 대사 번역
-- [x] 한글 폰트 통합 및 적용
-- [x] 시스템 UI
-- [x] 시스템 안정성
-- [ ] 플레이 테스트 및 최종 검수
-
-### 마도물어 A (게임기어)
 
 - [x] 일본어 폰트 추출 및 테이블 완성
 - [x] 시나리오 텍스트 추출
@@ -564,7 +607,7 @@ Claude Code를 활용하여 리버싱/번역하고, 사람이 기초 검수를 �
 - [x] 시나리오 및 이벤트 대사 번역
 - [x] 한글 폰트 통합 및 적용
 - [x] 시스템 UI
-- [ ] 시스템 안정성
+- [x] 시스템 안정성
 - [ ] 플레이 테스트 및 최종 검수
 
 ### 마도물어 1-2-3 (PC-98)
@@ -573,8 +616,8 @@ Claude Code를 활용하여 리버싱/번역하고, 사람이 기초 검수를 �
 - [x] 시나리오 텍스트 추출
 - [x] 시나리오 및 이벤트 대사 번역
 - [x] 한글 폰트 통합 및 적용
-- [ ] 시스템 UI
-- [ ] 시스템 안정성
+- [x] 시스템 UI
+- [x] 시스템 안정성
 - [ ] 플레이 테스트 및 최종 검수
 
 ### 마도물어 A-R-S (PC-98)
@@ -583,8 +626,8 @@ Claude Code를 활용하여 리버싱/번역하고, 사람이 기초 검수를 �
 - [x] 시나리오 텍스트 추출
 - [x] 시나리오 및 이벤트 대사 번역
 - [x] 한글 폰트 통합 및 적용
-- [ ] 시스템 UI
-- [ ] 시스템 안정성
+- [x] 시스템 UI
+- [x] 시스템 안정성
 - [ ] 플레이 테스트 및 최종 검수
 
 ## 이슈 제보 및 피드백
@@ -619,6 +662,9 @@ Claude Code를 활용하여 리버싱/번역하고, 사람이 기초 검수를 �
 | v0.1.0 | 2026-07-08 | 마도물어 I (게임기어)              | 베타 배포                                                          |
 | v0.1.0 | 2026-07-08 | 마도물어 II (게임기어)              | 베타 배포                                                          |
 | v0.1.0 | 2026-07-08 | 마도물어 III (게임기어)              | 베타 배포                                                          |
+| v0.2.0 | 2026-07-11 | 마도물어 I (게임기어)              | 일본판 원본 직접 적용 전환, UI 재구축, 명칭·프롤로그 표시 오류 수정    |
+| v0.2.0 | 2026-07-11 | 마도물어 II (게임기어)              | 포트레이트 제어코드 복원, 대사 박스·줄바꿈 교정, 타이틀 메뉴·문장부호 개선 |
+| v0.1.0 | 2026-07-11 | 마도물어 A (게임기어)              | 베타 배포                                                          |
 
 ## 라이선스
 
