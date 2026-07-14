@@ -18,6 +18,7 @@ Claude Code를 활용하여 리버싱/번역하고, 사람이 기초 검수를 �
 - [마도물어 II — 게임기어 (베타)](#마도물어-ii--게임기어-베타)
 - [마도물어 III — 게임기어 (베타)](#마도물어-iii--게임기어-베타)
 - [마도물어 A — 게임기어 (베타)](#마도물어-a--게임기어-베타)
+- [마도물어 I — PC 엔진 CD (베타)](#마도물어-i--pc-엔진-cd-베타)
 - [번역 예정 작품](#번역-예정-작품)
 - [이슈 제보 및 피드백](#이슈-제보-및-피드백)
 - [업데이트 기록](#업데이트-기록)
@@ -601,21 +602,72 @@ Claude Code를 활용하여 리버싱/번역하고, 사람이 기초 검수를 �
 - **역공학 참고**: [madouaggtools](https://github.com/suppertails66/madouaggtools) (Supper/Filler 영문 패치)
 - **원작**: Compile (1996)
 
+## 마도물어 I — PC 엔진 CD (베타)
+
+PC 엔진 CD-ROM² **마도물어 I - 불꽃의 졸업생 (魔導物語I 炎の卒園児)** 한글 번역 패치입니다.
+
+> ⚠️ **베타 배포 (v0.1.0)**: 최종 인게임 검수가 진행 중입니다. 어색한 번역·표기·그래픽 문제나 진행 문제는 제보해 주세요.
+
+![pce-cd-madou-screenshot-1](/img/pce-cd-madou-screenshot-1.png)
+
+![pce-cd-madou-screenshot-2](/img/pce-cd-madou-screenshot-2.png)
+
+### 적용 방법
+
+1. 아래 체크섬과 일치하는 일본판 원본 32트랙 BIN/CUE를 준비합니다
+2. [Madou Monogatari I - Honoo no Sotsuenji (PC Engine CD) KR v0.1.0.bps](https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/Madou%20Monogatari%20I%20-%20Honoo%20no%20Sotsuenji%20%28PC%20Engine%20CD%29%20KR%20v0.1.0.bps)를 다운로드합니다
+3. [Floating IPS (Flips)](https://github.com/Alcaro/Flips) 등 BPS 패처로 패치를 **원본 `(Track 02).bin`에만** 적용합니다. CUE, 전체 디스크 합본, ISO/2048 파일에는 적용하지 않습니다
+4. 패치 적용 후 파일을 원본 `(Track 02).bin`과 같은 이름으로 두면 기존 CUE를 그대로 사용할 수 있습니다. Track 01과 Track 03~32는 원본 그대로 유지합니다
+
+### 체크섬
+
+#### 원본 Track 02 — Madou Monogatari I - Honoo no Sotsuenji (Japan) (Track 02).bin
+
+| 알고리즘 | 해시                                                               |
+| -------- | ------------------------------------------------------------------ |
+| CRC32    | `146E1E2B`                                                         |
+| MD5      | `a0819940f217c31439b56393d2c15df5`                                 |
+| SHA-1    | `754696b6527c12259280e82f9233d555f1157340`                         |
+| SHA-256  | `6cd2603393679e8a236940853d52db45d689952d88bda3445da9aefe63b38564` |
+| 크기     | 41,150,592 bytes                                                   |
+
+#### KR 패치 파일 — Madou Monogatari I - Honoo no Sotsuenji (PC Engine CD) KR v0.1.0.bps
+
+| 알고리즘 | 해시                                                               |
+| -------- | ------------------------------------------------------------------ |
+| CRC32    | `2144DF1C`                                                         |
+| MD5      | `8f020997daadd9641c3ada2ff5687948`                                 |
+| SHA-1    | `e739bd644afff11c3a11c148e1b3e5f150ef1bc9`                         |
+| SHA-256  | `e7a9019cef9f7c2a2379e19984e372c535e2498b216db6ef7663eaea544dd0b4` |
+| 크기     | 303,575 bytes                                                      |
+
+#### KR 패치 적용 후 Track 02 — Madou Monogatari I - Honoo no Sotsuenji (KR v0.1.0) (Track 02).bin
+
+| 알고리즘 | 해시                                                               |
+| -------- | ------------------------------------------------------------------ |
+| CRC32    | `430BCEDA`                                                         |
+| MD5      | `6708f656a01d19d2ebb538b25927533d`                                 |
+| SHA-1    | `17b5730da25f31e931ce10bfe4e5a0dd78d374dc`                         |
+| SHA-256  | `4a3949cad6d4f59e5263f52ae2cd8d10c9527a59fc2ae126dd3e88a1ee8e96d2` |
+| 크기     | 41,150,592 bytes                                                   |
+
+### 패치 정보
+
+- 일본판 원본 raw MODE1/2352 Track 02에 직접 적용하는 JP→KR BPS
+- 시나리오·시스템 UI·컷신 자막 한글화
+- 일반 대사·메뉴 한글 폰트: [Neo둥근모](https://neodgm.dalgona.dev/) 16px 비트맵
+- 컷신 자막 한글 폰트: Maplestory Bold
+- 타이틀과 던전 로고는 원본 그래픽 유지
+### 크레딧
+
+- **패치 제작자**: mcpads
+- **원작**: Compile / NEC Avenue (1996)
+
 ## 번역 예정 작품
 
 ### 와쿠와쿠 뿌요뿌요 던전 - 완전판 (PS1)
 
 진행 중입니다.
-
-- [x] 일본어 폰트 추출 및 테이블 완성
-- [x] 시나리오 텍스트 추출
-- [x] 시나리오 및 이벤트 대사 번역
-- [x] 한글 폰트 통합 및 적용
-- [x] 시스템 UI
-- [x] 시스템 안정성
-- [ ] 플레이 테스트 및 최종 검수
-
-### 마도물어 (PCE-CD)
 
 - [x] 일본어 폰트 추출 및 테이블 완성
 - [x] 시나리오 텍스트 추출
@@ -680,6 +732,7 @@ Claude Code를 활용하여 리버싱/번역하고, 사람이 기초 검수를 �
 | v0.2.0 | 2026-07-11 | 마도물어 I (게임기어)              | 일본판 원본 직접 적용 전환, UI 재구축, 명칭·프롤로그 표시 오류 수정    |
 | v0.2.0 | 2026-07-11 | 마도물어 II (게임기어)              | 포트레이트 제어코드 복원, 대사 박스·줄바꿈 교정, 타이틀 메뉴·문장부호 개선 |
 | v0.1.0 | 2026-07-11 | 마도물어 A (게임기어)              | 베타 배포                                                          |
+| v0.1.0 | 2026-07-14 | 마도물어 I (PC 엔진 CD)             | 베타 배포                                                          |
 
 ## 라이선스
 
