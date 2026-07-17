@@ -604,9 +604,9 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 
 ## 마도물어 I — PC 엔진 CD (베타)
 
-PC 엔진 CD-ROM² **마도물어 I - 불꽃의 졸업생 (魔導物語I 炎の卒園児)** 한글 번역 패치입니다.
+PC 엔진 CD-ROM² **마도물어 I - 불꽃의 졸원아 (魔導物語I 炎の卒園児)** 한글 번역 패치입니다.
 
-> ⚠️ **베타 배포 (v0.1.0)**: 최종 인게임 검수가 진행 중입니다. 어색한 번역·표기·그래픽 문제나 진행 문제는 제보해 주세요.
+> ⚠️ **베타 배포 (v0.2.0)**: 최종 인게임 검수가 진행 중입니다. 어색한 번역·표기·그래픽 문제나 진행 문제는 제보해 주세요.
 
 ![pce-cd-madou-screenshot-1](/img/pce-cd-madou-screenshot-1.png)
 
@@ -615,7 +615,7 @@ PC 엔진 CD-ROM² **마도물어 I - 불꽃의 졸업생 (魔導物語I 炎の�
 ### 적용 방법
 
 1. 아래 체크섬과 일치하는 일본판 원본 32트랙 BIN/CUE를 준비합니다
-2. [Madou Monogatari I - Honoo no Sotsuenji (PC Engine CD) KR v0.1.0.bps](https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/Madou%20Monogatari%20I%20-%20Honoo%20no%20Sotsuenji%20%28PC%20Engine%20CD%29%20KR%20v0.1.0.bps)를 다운로드합니다
+2. [Madou Monogatari I - Honoo no Sotsuenji (PC Engine CD) KR v0.2.0.bps](https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/Madou%20Monogatari%20I%20-%20Honoo%20no%20Sotsuenji%20%28PC%20Engine%20CD%29%20KR%20v0.2.0.bps)를 다운로드합니다
 3. [Floating IPS (Flips)](https://github.com/Alcaro/Flips) 등 BPS 패처로 패치를 **원본 `(Track 02).bin`에만** 적용합니다. CUE, 전체 디스크 합본, ISO/2048 파일에는 적용하지 않습니다
 4. 패치 적용 후 파일을 원본 `(Track 02).bin`과 같은 이름으로 두면 기존 CUE를 그대로 사용할 수 있습니다. Track 01과 Track 03~32는 원본 그대로 유지합니다
 
@@ -631,24 +631,24 @@ PC 엔진 CD-ROM² **마도물어 I - 불꽃의 졸업생 (魔導物語I 炎の�
 | SHA-256  | `6cd2603393679e8a236940853d52db45d689952d88bda3445da9aefe63b38564` |
 | 크기     | 41,150,592 bytes                                                   |
 
-#### KR 패치 파일 — Madou Monogatari I - Honoo no Sotsuenji (PC Engine CD) KR v0.1.0.bps
+#### KR 패치 파일 — Madou Monogatari I - Honoo no Sotsuenji (PC Engine CD) KR v0.2.0.bps
 
 | 알고리즘 | 해시                                                               |
 | -------- | ------------------------------------------------------------------ |
 | CRC32    | `2144DF1C`                                                         |
-| MD5      | `8f020997daadd9641c3ada2ff5687948`                                 |
-| SHA-1    | `e739bd644afff11c3a11c148e1b3e5f150ef1bc9`                         |
-| SHA-256  | `e7a9019cef9f7c2a2379e19984e372c535e2498b216db6ef7663eaea544dd0b4` |
-| 크기     | 303,575 bytes                                                      |
+| MD5      | `50e64f94a3f37a1dcbe9ede93c934b9c`                                 |
+| SHA-1    | `b17818d3ab04a196006acb87278b52dc92873cba`                         |
+| SHA-256  | `2c5730239eb9c9e6a9cc15669a4145da5b3204a1ec8678e6ae1b0387dec50ce9` |
+| 크기     | 304,191 bytes                                                      |
 
-#### KR 패치 적용 후 Track 02 — Madou Monogatari I - Honoo no Sotsuenji (KR v0.1.0) (Track 02).bin
+#### KR 패치 적용 후 Track 02 — Madou Monogatari I - Honoo no Sotsuenji (KR v0.2.0) (Track 02).bin
 
 | 알고리즘 | 해시                                                               |
 | -------- | ------------------------------------------------------------------ |
-| CRC32    | `430BCEDA`                                                         |
-| MD5      | `6708f656a01d19d2ebb538b25927533d`                                 |
-| SHA-1    | `17b5730da25f31e931ce10bfe4e5a0dd78d374dc`                         |
-| SHA-256  | `4a3949cad6d4f59e5263f52ae2cd8d10c9527a59fc2ae126dd3e88a1ee8e96d2` |
+| CRC32    | `54B7C9F8`                                                         |
+| MD5      | `8aa7ea790985de5387cc372266d94b0f`                                 |
+| SHA-1    | `39108b27e7ea1a3edd3817dca5ae68f64fc9fdd8`                         |
+| SHA-256  | `613141081e09da4458b42fac3ccc6118a734cf492a4dcdbfc850519658c1588a` |
 | 크기     | 41,150,592 bytes                                                   |
 
 ### 패치 정보
@@ -733,6 +733,7 @@ PC 엔진 CD-ROM² **마도물어 I - 불꽃의 졸업생 (魔導物語I 炎の�
 | v0.2.0 | 2026-07-11 | 마도물어 II (게임기어)              | 포트레이트 제어코드 복원, 대사 박스·줄바꿈 교정, 타이틀 메뉴·문장부호 개선 |
 | v0.1.0 | 2026-07-11 | 마도물어 A (게임기어)              | 베타 배포                                                          |
 | v0.1.0 | 2026-07-14 | 마도물어 I (PC 엔진 CD)             | 베타 배포                                                          |
+| v0.2.0 | 2026-07-18 | 마도물어 I (PC 엔진 CD)             | 번역·말투·용어 및 인트로 자막 교정                                |
 
 ## 라이선스
 
