@@ -397,7 +397,7 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 
 세가 게임기어 **마도물어 II - 아르르 16세 (魔導物語 II - アルル16才)** 한글 번역 패치입니다.
 
-> ⚠️ **베타 배포 (v0.2.0)**: 게임 전반은 정상 플레이 가능하나 최종 인게임 검수가 진행 중입니다. 어색한 번역·표기·그래픽 문제는 제보해 주세요.
+> ⚠️ **베타 배포 (v0.3.0)**: 게임 전반은 정상 플레이 가능하나 최종 인게임 검수가 진행 중입니다. 어색한 번역·표기·그래픽 문제는 제보해 주세요.
 
 참고: [마도물어 - 나무위키](https://namu.wiki/w/%EB%A7%88%EB%8F%84%EB%AC%BC%EC%96%B4)
 
@@ -408,7 +408,7 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 ### 적용 방법
 
 1. **일본판 원본 ROM**을 준비합니다 (아래 체크섬으로 올바른 파일인지 확인)
-2. [Madou Monogatari II (Game Gear) KR v0.2.0.bps](https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/Madou%20Monogatari%20II%20(Game%20Gear)%20KR%20v0.2.0.bps)를 다운로드합니다
+2. [Madou Monogatari II (Game Gear) KR v0.3.0.bps](https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/Madou%20Monogatari%20II%20(Game%20Gear)%20KR%20v0.3.0.bps)를 다운로드합니다
 3. [Floating IPS (Flips)](https://github.com/Alcaro/Flips) 등 BPS 패처로 **일본판 원본 ROM**에 한글 패치를 직접 적용합니다
 
 ### 체크섬
@@ -423,24 +423,24 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 | SHA-256  | `9da7d65d1772ae9b5fa71cee68b19f78bfc4848451ad6bbb5662498b2dbb997a` |
 | 크기     | 524,288 bytes (512 KB)                                             |
 
-#### KR 패치 파일 — Madou Monogatari II (Game Gear) KR v0.2.0.bps
+#### KR 패치 파일 — Madou Monogatari II (Game Gear) KR v0.3.0.bps
 
 | 알고리즘 | 해시                                                               |
 | -------- | ------------------------------------------------------------------ |
 | CRC32    | `2144DF1C`                                                         |
-| MD5      | `0e06beb70caae2c4b288004953f0fca5`                                 |
-| SHA-1    | `7e2b9091cb5418fbc596f4ba2c386495a554e5a2`                         |
-| SHA-256  | `77329491815381b359b3cb4a4b80ffd9becb7aefbf59215f701d4e32df3e633b` |
-| 크기     | 526,503 bytes (514 KB)                                             |
+| MD5      | `a5ad7417162ea719b408ae5049ade93d`                                 |
+| SHA-1    | `db03bfe3b6cad72d4371f859a107e91e977e0b50`                         |
+| SHA-256  | `0b54a0a7639437e8b67a7e0a477e05813e7df7f77af3cc0df5603fb7741d339a` |
+| 크기     | 526,591 bytes (514 KB)                                             |
 
-#### KR 패치 적용 후 — Madou Monogatari II (Game Gear) KR v0.2.0.gg
+#### KR 패치 적용 후 — Madou Monogatari II (Game Gear) KR v0.3.0.gg
 
 | 알고리즘 | 해시                                                               |
 | -------- | ------------------------------------------------------------------ |
-| CRC32    | `E395CBD4`                                                         |
-| MD5      | `3018e98a4fe0ce91353b925d92192d03`                                 |
-| SHA-1    | `ec283c62f00ce366fb88b0dc699e790add241559`                         |
-| SHA-256  | `4ed6eb98e40b18f83dbe0c05b3973703b28a65263b47df6fa338005737229288` |
+| CRC32    | `E50DACA6`                                                         |
+| MD5      | `8080bc5184f610cedf0fe70340770e89`                                 |
+| SHA-1    | `244f1dff93aa32e46e1d14f4c8f9278585586d11`                         |
+| SHA-256  | `082d6adcd04dd34bd4c46b66e9c57f926501854f364f35359614662a7dc48f64` |
 | 크기     | 1,048,576 bytes (1 MB)                                             |
 
 ### 진행 상황
@@ -737,6 +737,7 @@ PC 엔진 CD-ROM² **마도물어 I - 불꽃의 졸원아 (魔導物語I 炎の�
 | v0.2.1 | 2026-07-18 | 마도물어 I (PC 엔진 CD)             | 라이트 사용 시 진행 불가 수정                                     |
 | v0.3.0 | 2026-07-19 | 마도물어 I (게임기어)              | 번역 수정 및 방향 UI 번역                                         |
 | v1.0.0 | 2026-07-20 | 마도물어 I (게임기어)              | 정식 배포                                                          |
+| v0.3.0 | 2026-07-23 | 마도물어 II (게임기어)             | 번역·용어·문장부호 및 대사 레이아웃 교정                           |
 
 ## 라이선스
 
