@@ -26,7 +26,9 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 
 ## 마도물어 I — 메가드라이브
 
-세가 메가드라이브(Genesis) **마도물어 I (魔導物語 I)** 한글 번역 패치입니다. (타이틀 화면 제외)
+세가 메가드라이브(Genesis) **마도물어 I (魔導物語 I)** 한글 번역 패치입니다.
+
+일본판 원본에 직접 적용하는 `v2.0.0-rc.0`과 기존 영문패치 ROM에 적용하는 `v1.1.0`을 함께 제공합니다. `v2.0.0-rc.0`은 릴리스 후보 버전입니다.
 
 참고: [마도물어 I - 나무위키](https://namu.wiki/w/%EB%A7%88%EB%8F%84%EB%AC%BC%EC%96%B4#s-3)
 
@@ -34,7 +36,13 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 
 ![md-madou-screenshot2](/img/md-madou-screenshot-2.png)
 
-### 적용 방법
+### 적용 방법 — v2.0.0-rc.0
+
+1. **일본판 원본 ROM**을 준비합니다 (아래 체크섬으로 올바른 파일인지 확인)
+2. [Madou Monogatari I (Mega Drive) KR v2.0.0-rc.0.bps](https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/Madou%20Monogatari%20I%20(Mega%20Drive)%20KR%20v2.0.0-rc.0.bps)를 다운로드합니다
+3. [Floating IPS (Flips)](https://www.smwcentral.net/?p=section&a=details&id=11474) 등 BPS 패처로 일본판 원본 ROM에 한글 패치를 적용합니다
+
+### 기존 v1.1.0 적용 방법
 
 1. **일본판 원본 ROM**을 준비합니다 (아래 체크섬으로 올바른 파일인지 확인)
 2. [LIPEMCO! 영어 번역 패치 (IPS)](https://www.romhacking.net/translations/5388/)를 다운로드하여 원본 ROM에 적용합니다
@@ -53,7 +61,27 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 | SHA-256  | `61d1dec319afb1380dfbee0cdb42e6e64ab180941b0d533d8deed9efa502f83c` |
 | 크기     | 2,097,152 bytes (2 MB)                                             |
 
-#### ENG 패치 ROM — Madou Monogatari I (English v1.1).md
+#### KR 패치 파일 — Madou Monogatari I (Mega Drive) KR v2.0.0-rc.0.bps
+
+| 알고리즘 | 해시                                                               |
+| -------- | ------------------------------------------------------------------ |
+| CRC32    | `2144DF1C`                                                         |
+| MD5      | `4660f1d92ad6a7df4c8f089374fdb6f3`                                 |
+| SHA-1    | `f7564d77ba75fd567e0e68ff7acb6939b83e2b76`                         |
+| SHA-256  | `83591dd13addc6d3aa4a3f52fa9f5d46221ea02938b1b9c548fc61d1969ca4f8` |
+| 크기     | 2,113,855 bytes (2.02 MB)                                          |
+
+#### KR 패치 적용 후 — Madou Monogatari I (Mega Drive) KR v2.0.0-rc.0.md
+
+| 알고리즘 | 해시                                                               |
+| -------- | ------------------------------------------------------------------ |
+| CRC32    | `E157D975`                                                         |
+| MD5      | `54e69a1f004f2f060e30dde35ce03ce2`                                 |
+| SHA-1    | `6851d6742cae78955440b9b9e65c5c4965790511`                         |
+| SHA-256  | `d27f404fbf7d25a2a77e3f7b9dab21690c8e219ac5ed5caa7ba86bd1cebb2418` |
+| 크기     | 4,194,304 bytes (4 MB)                                             |
+
+#### 기존 v1.1.0용 ENG 패치 ROM — Madou Monogatari I (English v1.1).md
 
 | 알고리즘 | 해시                                                               |
 | -------- | ------------------------------------------------------------------ |
@@ -85,9 +113,11 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 
 ### 패치 정보
 
-- 영어판 v1.1 번역 패치 롬([LIPEMCO! Translations](https://www.romhacking.net/translations/5388/)) 위에 적용
+- `v2.0.0-rc.0`: 일본판 원본에 직접 적용하는 JP→KR 패치. 한글 타이틀·그래픽과 JP 네이티브 텍스트 엔진 포함
+- `v1.1.0`: 영어판 v1.1 번역 패치 ROM([LIPEMCO! Translations](https://www.romhacking.net/translations/5388/)) 위에 적용하는 기존 패치
 - 한글 폰트: [Neo둥근모](https://neodgm.dalgona.dev/) 16px 비트맵
-- [패쳐 코드베이스](https://github.com/mcpads/md-madou-kr-patcher)
+- [v2 패쳐 코드베이스](https://github.com/mcpads/md_madou)
+- [v1 패쳐 코드베이스](https://github.com/mcpads/md-madou-kr-patcher)
 
 ### 크레딧
 
@@ -739,6 +769,7 @@ PC 엔진 CD-ROM² **마도물어 I - 불꽃의 졸원아 (魔導物語I 炎の�
 | v1.0.0 | 2026-07-20 | 마도물어 I (게임기어)              | 정식 배포                                                          |
 | v0.3.0 | 2026-07-23 | 마도물어 II (게임기어)             | 번역·용어·문장부호 및 대사 레이아웃 교정                           |
 | v0.4.0 | 2026-07-26 | 마도물어 II (게임기어)             | 버그 수정 및 번역 교정                                             |
+| v2.0.0-rc.0 | 2026-08-01 | 마도물어 I (MD)                    | 일본판 직접 적용 전환, 번역·그래픽·텍스트 엔진 재구축 (릴리스 후보) |
 
 ## 라이선스
 
