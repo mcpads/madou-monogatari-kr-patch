@@ -228,19 +228,19 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 | 알고리즘 | 해시                                                               |
 | -------- | ------------------------------------------------------------------ |
 | CRC32    | `2144DF1C`                                                         |
-| MD5      | `c0089b7b724424b2e3350ece9c67bd97`                                 |
-| SHA-1    | `7361218603ec7645c077aaad2e2df965b3033ec5`                         |
-| SHA-256  | `e8df7d05d2358f15b7c5589af88b43ea848acae45eda0cc8598d7837fee5d3ca` |
-| 크기     | 4,495,694 bytes (4.3 MB)                                           |
+| MD5      | `3335ea848ab4eac98f5a49cdf748bd46`                                 |
+| SHA-1    | `615d4e6f4b3f125c05cf1852544b630cd311749d`                         |
+| SHA-256  | `51c746166f33a4353ade60e6149800cedb76f59948f7583bb05fb4ccb4c9b0b1` |
+| 크기     | 4,495,930 bytes (4.3 MB)                                           |
 
 #### KR 패치 적용 후 — Madou Monogatari (Sega Saturn) KR v1.2.0.bin
 
 | 알고리즘 | 해시                                                               |
 | -------- | ------------------------------------------------------------------ |
-| CRC32    | `33ABF477`                                                         |
-| MD5      | `2d83694f9813edbc3c5912662452abba`                                 |
-| SHA-1    | `fadaec5920755d9c9163fa41515cf3685ccbce7a`                         |
-| SHA-256  | `44c331cafaff5f746a139b0b6598d005d22cf0b75f80b58b3725dcdd46bd478b` |
+| CRC32    | `EAE5DB4F`                                                         |
+| MD5      | `9342d4379a82e45346d69e311bd6878d`                                 |
+| SHA-1    | `554e89c49a62ea993ddcbe6ea3e9b970fbaeaaa5`                         |
+| SHA-256  | `2de4df18fdabfff2de50adbea739cc584d7f5e4b7a9a4f9179fd42f50ef22cad` |
 | 크기     | 146,661,312 bytes (140 MB)                                         |
 
 ### 체크섬 (U)
@@ -259,19 +259,19 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 | 알고리즘 | 해시                                                               |
 | -------- | ------------------------------------------------------------------ |
 | CRC32    | `2144DF1C`                                                         |
-| MD5      | `c5376cbedb177d8d517f8e54a449d0ca`                                 |
-| SHA-1    | `a50a0d9fc03ce9ddc04beb2f8bae8812921eb5eb`                         |
-| SHA-256  | `9a6ad1f042de9fbf051c5943dcf5e7ed6d51c5fdbfc949ca10ad350896867b4f` |
-| 크기     | 4,495,846 bytes (4.3 MB)                                           |
+| MD5      | `b1672f3d7651335f5e099823a143362d`                                 |
+| SHA-1    | `26b9ee99d2672a1d25623cb430a853760626fad2`                         |
+| SHA-256  | `6cee8d3d6081418f7a1f15de4ea6f5286f61a21372dad601ba85a3925be1daa9` |
+| 크기     | 4,496,082 bytes (4.3 MB)                                           |
 
 #### KR 패치 적용 후 — Madou Monogatari (U) (Sega Saturn) KR v1.2.0.bin
 
 | 알고리즘 | 해시                                                               |
 | -------- | ------------------------------------------------------------------ |
-| CRC32    | `8E8561FD`                                                         |
-| MD5      | `e1051a5fe8d9cfb8c000e0ea0fa85179`                                 |
-| SHA-1    | `c25da17991a04c1e687e05b38dc66282d0b78139`                         |
-| SHA-256  | `642e55b33ece1205939515ae089ac2efb6709b00f0845710313dc86a4fcce4bd` |
+| CRC32    | `0D089EE2`                                                         |
+| MD5      | `192211c8231eb23ec859da0c4ae90119`                                 |
+| SHA-1    | `a891c420f021ae8e6160215480e58e9eaecc1087`                         |
+| SHA-256  | `0554b416cba5c2af087f63c9901709e147aeb6a8ad62d3322306d0c69d181510` |
 | 크기     | 146,308,512 bytes (139 MB)                                         |
 
 ### 패치 정보
