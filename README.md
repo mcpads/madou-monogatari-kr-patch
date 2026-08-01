@@ -133,7 +133,7 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 
 참고: [마도물어 하나마루 대유치원아](https://namu.wiki/w/%EB%A7%88%EB%8F%84%EB%AC%BC%EC%96%B4%20%ED%95%98%EB%82%98%EB%A7%88%EB%A3%A8%20%EB%8C%80%EC%9C%A0%EC%B9%98%EC%9B%90%EC%95%84)
 
-![snes-madou-screenshot1](/img/snes-madou-screenshot-1.png)
+![마도전기 하나마루 대유치원아 타이틀 화면](/img/snes-madou-screenshot-1.png)
 
 ![snes-madou-screenshot2](/img/snes-madou-screenshot-2.png)
 
@@ -142,7 +142,7 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 ### 적용 방법
 
 1. **일본판 원본 ROM**을 준비합니다 (아래 체크섬으로 올바른 파일인지 확인)
-2. [Madou Monogatari - Hanamaru Daiyouchienji (KR v1.3.0).bps](https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/Madou%20Monogatari%20-%20Hanamaru%20Daiyouchienji%20(KR%20v1.3.0).bps)를 다운로드합니다
+2. [Madou Monogatari - Hanamaru Daiyouchienji (KR v1.4.0).bps](https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/Madou%20Monogatari%20-%20Hanamaru%20Daiyouchienji%20(KR%20v1.4.0).bps)를 다운로드합니다
 3. [Floating IPS (Flips)](https://www.smwcentral.net/?p=section&a=details&id=11474) 등 BPS 패처로 원본 ROM에 한글 패치를 적용합니다
 
 ### 체크섬
@@ -157,24 +157,24 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 | SHA-256  | 72e7ff7857f577809b585f67f9c6b2211e6648c4f86519fc6c66e3f4bfd49f59 |
 | 크기     | 2,097,152 bytes (2 MB)                                           |
 
-#### KR 패치 파일 — Madou Monogatari - Hanamaru Daiyouchienji (KR v1.3.0).bps
+#### KR 패치 파일 — Madou Monogatari - Hanamaru Daiyouchienji (KR v1.4.0).bps
 
 | 알고리즘 | 해시                                                             |
 | -------- | ---------------------------------------------------------------- |
-| CRC32    | A200F55D                                                         |
-| MD5      | ada0574945225eeac1dee1d71a326cee                                 |
-| SHA-1    | 161bcb4f3850c5463b86419bb71777e602e60b33                         |
-| SHA-256  | 0f9d50f805bc62cf5fdbd488f0f29fdef2dbf81aab22de5dade0fd56f4334ccb |
-| 크기     | 186,198 bytes (181 KB)                                           |
+| CRC32    | 2144DF1C                                                         |
+| MD5      | 0dbdcbd7b54d74a0f39cc6080bf196a5                                 |
+| SHA-1    | aeea4c1c17a5e38215640af66a847e7fca30c5ce                         |
+| SHA-256  | 6fe2702d8d8b360aa68b3de1b1e9aec715142325188570f87669c113068350f0 |
+| 크기     | 209,229 bytes (204 KB)                                           |
 
-#### KR 패치 적용 후 — Madou Monogatari - Hanamaru Daiyouchienji (KR v1.3.0).sfc
+#### KR 패치 적용 후 — Madou Monogatari - Hanamaru Daiyouchienji (KR v1.4.0).sfc
 
 | 알고리즘 | 해시                                                             |
 | -------- | ---------------------------------------------------------------- |
-| CRC32    | 59799A04                                                         |
-| MD5      | 6efe9262ee276a39871da42d0fa870fa                                 |
-| SHA-1    | 5ffd25ea4bcfa71f9f443f60577f2eeffcaa293f                         |
-| SHA-256  | adfc90212440ac642f774a4051ba3fb5d2312c6446387109d0c1f877715fc6c0 |
+| CRC32    | AF9747BD                                                         |
+| MD5      | 2221584305d8bc960d6c4b79ac45be00                                 |
+| SHA-1    | e736c5b43de02d580e091c43a16e95ee7127cc35                         |
+| SHA-256  | 8364d39738e293274c4fa5ebeecf987e8337c65539ac18a342220e0b2879d192 |
 | 크기     | 2,097,152 bytes (2 MB)                                           |
 
 ### 패치 정보
@@ -769,6 +769,7 @@ PC 엔진 CD-ROM² **마도물어 I - 불꽃의 졸원아 (魔導物語I 炎の�
 | v0.3.0 | 2026-07-23 | 마도물어 II (게임기어)             | 번역·용어·문장부호 및 대사 레이아웃 교정                           |
 | v0.4.0 | 2026-07-26 | 마도물어 II (게임기어)             | 버그 수정 및 번역 교정                                             |
 | v2.0.0-rc.0 | 2026-08-01 | 마도물어 I (MD)                    | 일본판 직접 적용 전환, 번역·그래픽·텍스트 엔진 재구축 (릴리스 후보) |
+| v1.4.0 | 2026-08-01 | 마도물어 하나마루 대유치원아       | 타이틀 화면 한글화, 번역 전수 교정 및 대사 오버플로우 수정         |
 
 ## 라이선스
 
