@@ -116,7 +116,6 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 - `v2.0.0-rc.0`: 일본판 원본에 직접 적용하는 JP→KR 패치. 한글 타이틀·그래픽과 JP 네이티브 텍스트 엔진 포함
 - `v1.1.0`: 영어판 v1.1 번역 패치 ROM([LIPEMCO! Translations](https://www.romhacking.net/translations/5388/)) 위에 적용하는 기존 패치
 - 한글 폰트: [Neo둥근모](https://neodgm.dalgona.dev/) 16px 비트맵
-- [v2 패쳐 코드베이스](https://github.com/mcpads/md_madou)
 - [v1 패쳐 코드베이스](https://github.com/mcpads/md-madou-kr-patcher)
 
 ### 크레딧
