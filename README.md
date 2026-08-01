@@ -358,7 +358,7 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 
 세가 게임기어 **마도물어 I (魔導物語 I - 3つの魔導球)** 한글 번역 패치입니다.
 
-> **정식 배포 (v1.0.0)**
+> **정식 배포 (v1.1.0)**
 
 참고: [마도물어 I - 나무위키](https://namu.wiki/w/%EB%A7%88%EB%8F%84%EB%AC%BC%EC%96%B4#s-3)
 
@@ -369,7 +369,7 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 ### 적용 방법
 
 1. **일본판 원본 ROM**을 준비합니다 (아래 체크섬으로 올바른 파일인지 확인)
-2. [Madou Monogatari I (Game Gear) KR v1.0.0.bps](https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/Madou%20Monogatari%20I%20(Game%20Gear)%20KR%20v1.0.0.bps)를 다운로드합니다
+2. [Madou Monogatari I (Game Gear) KR v1.1.0.bps](https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/Madou%20Monogatari%20I%20(Game%20Gear)%20KR%20v1.1.0.bps)를 다운로드합니다
 3. [Floating IPS (Flips)](https://github.com/Alcaro/Flips) 등 BPS 패처로 **일본판 원본 ROM**에 한글 패치를 직접 적용합니다
 
 ### 체크섬
@@ -384,24 +384,24 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 | SHA-256  | `4a87f02f358688bc7680d0d34f527e10a087fec95dbf7ed131241d8ffe4c0654` |
 | 크기     | 524,288 bytes (512 KB)                                             |
 
-#### KR 패치 파일 — Madou Monogatari I (Game Gear) KR v1.0.0.bps
+#### KR 패치 파일 — Madou Monogatari I (Game Gear) KR v1.1.0.bps
 
 | 알고리즘 | 해시                                                               |
 | -------- | ------------------------------------------------------------------ |
 | CRC32    | `2144DF1C`                                                         |
-| MD5      | `123cae7345186b739b669245032c4d9c`                                 |
-| SHA-1    | `d39d51b2fd755d8a53e42cd4d34d5d717f5c6f9b`                         |
-| SHA-256  | `d361993db615756573d1bdd8c90073e5018c1ce486719fbdd0a73f7723364abf` |
-| 크기     | 526,549 bytes (514 KB)                                             |
+| MD5      | `359362ed7f530a0662500be472d3e1f3`                                 |
+| SHA-1    | `2ea4917b5d30340b30d14efdfd8c88ea3a90ce5c`                         |
+| SHA-256  | `a5a6367af0878b9393513e59c19e2d4da121b3ae08449d2e699329dd3b852310` |
+| 크기     | 526,574 bytes (514 KB)                                             |
 
-#### KR 패치 적용 후 — Madou Monogatari I (Game Gear) KR v1.0.0.gg
+#### KR 패치 적용 후 — Madou Monogatari I (Game Gear) KR v1.1.0.gg
 
 | 알고리즘 | 해시                                                               |
 | -------- | ------------------------------------------------------------------ |
-| CRC32    | `B5357A70`                                                         |
-| MD5      | `4f3e283ff5ee090ad04939d88e5874b0`                                 |
-| SHA-1    | `6a1fbc94186799e8ed40817ec55be434d2638cd5`                         |
-| SHA-256  | `ccbc585f56ae4fc68a55e4786aed1e0a21ded7b7ee67d693c994226974541797` |
+| CRC32    | `13E69B40`                                                         |
+| MD5      | `018249ad9bf853fff80d9b8188d190c3`                                 |
+| SHA-1    | `9c9a6884b4a949c8c7be9870edcc05e398ed2da1`                         |
+| SHA-256  | `04d04eabcfa912d4350e00dafaabc2d7ba9f9edf224903df211218d66ed8f62e` |
 | 크기     | 1,048,576 bytes (1 MB)                                             |
 
 ### 진행 상황
@@ -761,7 +761,6 @@ PC 엔진 CD-ROM² **마도물어 I - 불꽃의 졸원아 (魔導物語I 炎の�
 | v1.0.0 | 2026-03-17 | 마도물어 (세가 새턴)               | 정식 배포                                                           |
 | v0.1.0 | 2026-03-24 | 와쿠와쿠 뿌요뿌요 던전 (세가 새턴) | 베타 배포                                                           |
 | v1.1.0 | 2026-07-05 | 마도물어 (세가 새턴)               | 선택지 진행 불가 및 텍스트 오버플로우 수정                          |
-| v1.2.0 | 2026-08-01 | 마도물어 (세가 새턴)               | 타이틀 한글화                                                       |
 | v0.1.0 | 2026-07-08 | 마도물어 I (게임기어)              | 베타 배포                                                          |
 | v0.1.0 | 2026-07-08 | 마도물어 II (게임기어)              | 베타 배포                                                          |
 | v0.1.0 | 2026-07-08 | 마도물어 III (게임기어)              | 베타 배포                                                          |
@@ -777,6 +776,8 @@ PC 엔진 CD-ROM² **마도물어 I - 불꽃의 졸원아 (魔導物語I 炎の�
 | v0.4.0 | 2026-07-26 | 마도물어 II (게임기어)             | 버그 수정 및 번역 교정                                             |
 | v2.0.0-rc.0 | 2026-08-01 | 마도물어 I (MD)                    | 일본판 직접 적용 전환, 번역·그래픽·텍스트 엔진 재구축 (릴리스 후보) |
 | v1.4.0 | 2026-08-01 | 마도물어 하나마루 대유치원아       | 타이틀 화면 한글화, 번역 전수 교정 및 대사 오버플로우 수정         |
+| v1.2.0 | 2026-08-01 | 마도물어 (세가 새턴)               | 타이틀 한글화                                                       |
+| v1.1.0 | 2026-08-01 | 마도물어 I (게임기어)              | 타이틀 화면 한글화                                                 |
 
 ## 라이선스
 
