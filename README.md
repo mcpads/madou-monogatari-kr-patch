@@ -83,9 +83,9 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 ### 크레딧
 
 - **패치 제작자**: mcpads
-- **리버싱**: mcpads (with Claude Code)
+- **리버싱**: mcpads (with Claude Code, Codex)
 - **QA**: mcpads
-- **한글 번역**: Claude Code (Opus 4.6 및 Haiku 4.5)
+- **한글 번역**: Claude Code (Opus 4.6 및 Haiku 4.5), Codex (GPT 5.6-sol)
 - **영어 번역 (베이스)**: [LIPEMCO! Translations](https://stargood.org/trans/lipemco.php)
 - **원작**: Compile (1996)
 
