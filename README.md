@@ -18,7 +18,7 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 - [마도물어 II — 게임기어 (베타)](#마도물어-ii--게임기어-베타)
 - [마도물어 III — 게임기어 (베타)](#마도물어-iii--게임기어-베타)
 - [마도물어 A — 게임기어 (베타)](#마도물어-a--게임기어-베타)
-- [마도물어 I — PC 엔진 CD (베타)](#마도물어-i--pc-엔진-cd-베타)
+- [마도물어 I — PC 엔진 CD](#마도물어-i--pc-엔진-cd)
 - [번역 예정 작품](#번역-예정-작품)
 - [이슈 제보 및 피드백](#이슈-제보-및-피드백)
 - [업데이트 기록](#업데이트-기록)
@@ -599,11 +599,11 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 - **역공학 참고**: [madouaggtools](https://github.com/suppertails66/madouaggtools) (Supper/Filler 영문 패치)
 - **원작**: Compile (1996)
 
-## 마도물어 I — PC 엔진 CD (베타)
+## 마도물어 I — PC 엔진 CD
 
-PC 엔진 CD-ROM² **마도물어 I - 불꽃의 졸원아 (魔導物語I 炎の卒園児)** 한글 번역 패치입니다.
+PC 엔진 CD-ROM² **마도물어 I - 불꽃의 꼬마졸업생 (魔導物語I 炎の卒園児)** 한글 번역 패치입니다.
 
-> ⚠️ **베타 배포 (v0.2.1)**: 최종 인게임 검수가 진행 중입니다. 어색한 번역·표기·그래픽 문제나 진행 문제는 제보해 주세요.
+일본판 원본에 직접 적용하는 `v1.0.0` 패치입니다.
 
 ![pce-cd-madou-screenshot-1](/img/pce-cd-madou-screenshot-1.png)
 
@@ -612,7 +612,7 @@ PC 엔진 CD-ROM² **마도물어 I - 불꽃의 졸원아 (魔導物語I 炎の�
 ### 적용 방법
 
 1. 아래 체크섬과 일치하는 일본판 원본 32트랙 BIN/CUE를 준비합니다
-2. [Madou Monogatari I - Honoo no Sotsuenji (PC Engine CD) KR v0.2.1.bps](https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/Madou%20Monogatari%20I%20-%20Honoo%20no%20Sotsuenji%20%28PC%20Engine%20CD%29%20KR%20v0.2.1.bps)를 다운로드합니다
+2. [Madou Monogatari I - Honoo no Sotsuenji (PC Engine CD) KR v1.0.0.bps](https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/Madou%20Monogatari%20I%20-%20Honoo%20no%20Sotsuenji%20%28PC%20Engine%20CD%29%20KR%20v1.0.0.bps)를 다운로드합니다
 3. [Floating IPS (Flips)](https://github.com/Alcaro/Flips) 등 BPS 패처로 패치를 **원본 `(Track 02).bin`에만** 적용합니다. CUE, 전체 디스크 합본, ISO/2048 파일에는 적용하지 않습니다
 4. 패치 적용 후 파일을 원본 `(Track 02).bin`과 같은 이름으로 두면 기존 CUE를 그대로 사용할 수 있습니다. Track 01과 Track 03~32는 원본 그대로 유지합니다
 
@@ -628,24 +628,24 @@ PC 엔진 CD-ROM² **마도물어 I - 불꽃의 졸원아 (魔導物語I 炎の�
 | SHA-256  | `6cd2603393679e8a236940853d52db45d689952d88bda3445da9aefe63b38564` |
 | 크기     | 41,150,592 bytes                                                   |
 
-#### KR 패치 파일 — Madou Monogatari I - Honoo no Sotsuenji (PC Engine CD) KR v0.2.1.bps
+#### KR 패치 파일 — Madou Monogatari I - Honoo no Sotsuenji (PC Engine CD) KR v1.0.0.bps
 
 | 알고리즘 | 해시                                                               |
 | -------- | ------------------------------------------------------------------ |
 | CRC32    | `2144DF1C`                                                         |
-| MD5      | `01f982e51e650ea404d2af69cde22faa`                                 |
-| SHA-1    | `694275cd81b58cf9b34ab59a6aa3e4b446399315`                         |
-| SHA-256  | `171ba2ecd475d08a24777a0bc118e5bd1ade58bb15ff57938dd791a0a7194e4f` |
-| 크기     | 304,165 bytes                                                      |
+| MD5      | `8ce04c22d3453e42987b8d66a260ac7b`                                 |
+| SHA-1    | `c0c52d0efa199d0391e02772413dfd90a358204d`                         |
+| SHA-256  | `9a42fa8a65b1110f38f49a22c8326523308cc07fab564a903213a00bf0de27c8` |
+| 크기     | 316,844 bytes                                                      |
 
-#### KR 패치 적용 후 Track 02 — Madou Monogatari I - Honoo no Sotsuenji (KR v0.2.1) (Track 02).bin
+#### KR 패치 적용 후 Track 02 — Madou Monogatari I - Honoo no Sotsuenji (PC Engine CD) KR v1.0.0 (Track 02).bin
 
 | 알고리즘 | 해시                                                               |
 | -------- | ------------------------------------------------------------------ |
-| CRC32    | `B7C97C85`                                                         |
-| MD5      | `4c626dd63d40be2b19af419f360bf163`                                 |
-| SHA-1    | `3baf7f823371d756097aef966268446b5b6226f8`                         |
-| SHA-256  | `8816af71fcfbb978daa76bf14814e113894c6141b457299c65afd40d77c5b5b8` |
+| CRC32    | `3112E34D`                                                         |
+| MD5      | `2438ff02600851f7ccfd60af3c63c2cc`                                 |
+| SHA-1    | `1dda7235cdd81280f08a5137320c16d6d78af6b4`                         |
+| SHA-256  | `14215109581084aeaedb2dbd46c5d441779f4d0f95363da8dbe28f74317f27d2` |
 | 크기     | 41,150,592 bytes                                                   |
 
 ### 패치 정보
@@ -654,7 +654,7 @@ PC 엔진 CD-ROM² **마도물어 I - 불꽃의 졸원아 (魔導物語I 炎の�
 - 시나리오·시스템 UI·컷신 자막 한글화
 - 일반 대사·메뉴 한글 폰트: [Neo둥근모](https://neodgm.dalgona.dev/) 16px 비트맵
 - 컷신 자막 한글 폰트: Maplestory Bold
-- 타이틀과 던전 로고는 원본 그래픽 유지
+
 ### 크레딧
 
 - **패치 제작자**: mcpads
@@ -741,6 +741,7 @@ PC 엔진 CD-ROM² **마도물어 I - 불꽃의 졸원아 (魔導物語I 炎の�
 | v1.2.0 | 2026-08-01 | 마도물어 (세가 새턴)               | 타이틀 한글화                                                       |
 | v1.1.0 | 2026-08-01 | 마도물어 I (게임기어)              | 타이틀 화면 한글화                                                 |
 | v2.0.0 | 2026-08-02 | 마도물어 I (MD)                    | 일본판 직접 적용 정식 배포                                         |
+| v1.0.0 | 2026-08-05 | 마도물어 I (PC 엔진 CD)            | 정식 배포                                                           |
 
 ## 라이선스
 
