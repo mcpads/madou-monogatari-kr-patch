@@ -267,7 +267,7 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 ### 적용 방법
 
 1. **원본 ROM**을 준비합니다 (BIN/CUE 형식, 아래 체크섬으로 올바른 파일인지 확인)
-2. [Waku Waku Puyo Puyo Dungeon (Sega Saturn) KR v0.1.0.bps](https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/Waku%20Waku%20Puyo%20Puyo%20Dungeon%20(Sega%20Saturn)%20KR%20v0.1.0.bps)를 다운로드합니다
+2. [Waku Waku Puyo Puyo Dungeon (Sega Saturn) KR v0.2.0.bps](https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/Waku%20Waku%20Puyo%20Puyo%20Dungeon%20(Sega%20Saturn)%20KR%20v0.2.0.bps)를 다운로드합니다
 3. [Floating IPS (Flips)](https://www.smwcentral.net/?p=section&a=details&id=11474) 등 BPS 패처로 원본 BIN 파일(Track 1)에 한글 패치를 적용합니다
 
 ### 체크섬
@@ -282,24 +282,24 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 | SHA-256  | `3edd5058cce6c6d36b69813a8d207d15fece8b79f3b5638522325fe3fa839f69` |
 | 크기     | 89,848,752 bytes (85 MB, BIN/CUE Track 01)                         |
 
-#### KR 패치 파일 — Waku Waku Puyo Puyo Dungeon (Sega Saturn) KR v0.1.0.bps
+#### KR 패치 파일 — Waku Waku Puyo Puyo Dungeon (Sega Saturn) KR v0.2.0.bps
 
 | 알고리즘 | 해시                                                               |
 | -------- | ------------------------------------------------------------------ |
 | CRC32    | `2144DF1C`                                                         |
-| MD5      | `04d234fc35521d298b3651ae99d26769`                                 |
-| SHA-1    | `bee25c10f178e96dd54da0acf16f16e0e7216af9`                         |
-| SHA-256  | `d52356493df0b5157bfa42ee1406132029913f37225169ce1394b61eef2f9ee4` |
-| 크기     | 904,207 bytes (883 KB)                                             |
+| MD5      | `f0df0398072c37c5abf0744ca9133dda`                                 |
+| SHA-1    | `a481db2d5e1cf9406fb9123e35329bfad2c5459f`                         |
+| SHA-256  | `34a28b68494e33c1f9aa394dc5a21b126687bd5dbc5904231e1d8b10a8c75c45` |
+| 크기     | 905,161 bytes (884 KB)                                             |
 
-#### KR 패치 적용 후 — Waku Waku Puyo Puyo Dungeon (Sega Saturn) KR v0.1.0.bin
+#### KR 패치 적용 후 — Waku Waku Puyo Puyo Dungeon (Sega Saturn) KR v0.2.0.bin
 
 | 알고리즘 | 해시                                                               |
 | -------- | ------------------------------------------------------------------ |
-| CRC32    | `C2746A48`                                                         |
-| MD5      | `13b66f0fe4db438261bb56cda82d7e83`                                 |
-| SHA-1    | `a2c221b2606deebaee0a9db327cfa57622fd7b1b`                         |
-| SHA-256  | `5d818052aec3c2535f2c2fbf695c6f397f08ae18386544e78aca072058595213` |
+| CRC32    | `AF81C4D7`                                                         |
+| MD5      | `8246583f53a995ddb01120543950cecf`                                 |
+| SHA-1    | `70aa21beea0fd12c1228d89d17a9384d53c0c816`                         |
+| SHA-256  | `673410710da9c2889969cc4085ab2e124fcab76530d95d73f1416b3169317c3f` |
 | 크기     | 89,848,752 bytes (85 MB)                                           |
 
 ### 패치 정보
@@ -742,6 +742,7 @@ PC 엔진 CD-ROM² **마도물어 I - 불꽃의 꼬마졸업생 (魔導物語I �
 | v1.1.0 | 2026-08-01 | 마도물어 I (게임기어)              | 타이틀 화면 한글화                                                 |
 | v2.0.0 | 2026-08-02 | 마도물어 I (MD)                    | 일본판 직접 적용 정식 배포                                         |
 | v1.0.0 | 2026-08-05 | 마도물어 I (PC 엔진 CD)            | 정식 배포                                                           |
+| v0.2.0 | 2026-08-09 | 와쿠와쿠 뿌요뿌요 던전 (세가 새턴) | 번역·UI 교정                                                       |
 
 ## 라이선스
 
