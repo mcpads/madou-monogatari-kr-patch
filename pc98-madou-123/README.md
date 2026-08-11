@@ -8,18 +8,22 @@ PC-98용 합본 재발매판 *마도물어 1-2-3*에 적용하는 한글 번역 
 
 이 패치는 원본 디스크나 패치 완료 디스크를 포함하지 않습니다. 각 원본 HDM에 적용하는 BPS 파일 여섯 개로 배포합니다.
 
-- 1편: System, Sampling
-- 2편: System, Sampling
-- 3편: System, Sampling
-- Data 디스크: 패치하지 않으며 후반부와 엔딩에서 원본을 그대로 사용
+Data 디스크에는 패치를 적용하지 않습니다. 후반부와 엔딩에서 요구하면 원본을 그대로 사용합니다.
 
-BPS 파일과 적용 후 체크섬은 베타 빌드가 확정되면 이 디렉터리에 함께 추가합니다.
+| 대상 | BPS | BPS SHA-256 | 적용 후 HDM SHA-256 |
+| --- | --- | --- | --- |
+| 1편 System | [다운로드](<Madou Monogatari 1-2-3 (PC-98) KR v0.1.0 - Game 1 System.bps>) | `3eea352b2c064c6f910e70646920f6f3c33fef2917a04f9267efa16540326f18` | `b77268ec3c45fcefc0e0131df0d51d0dd067d1713068242fa373798752681af2` |
+| 1편 Sampling | [다운로드](<Madou Monogatari 1-2-3 (PC-98) KR v0.1.0 - Game 1 Sampling.bps>) | `a0fe5b56dd519a568f2dc94700785f57dd6e277f55eb0fe82be4df536a9fe682` | `d8c56c87b1fc0a491e2774b7a39f7028ac2d1ef03e37507dd4318955cc92902d` |
+| 2편 System | [다운로드](<Madou Monogatari 1-2-3 (PC-98) KR v0.1.0 - Game 2 System.bps>) | `324874b5017c5ec254be0c2db2fd6cb94df50c73234644b30e1aa854e73d1978` | `7a40885023d0cad364c37655eb5a20808a02c0f58e46726d4771dbe6209eb283` |
+| 2편 Sampling | [다운로드](<Madou Monogatari 1-2-3 (PC-98) KR v0.1.0 - Game 2 Sampling.bps>) | `9aec1c7bab4e23cd59480540dbdf2875ace30d4ecd77746e4be3ae15433590f7` | `44992499eb2fb282d8a3c90228a9c8630a3b9d9c88cb849e2b4e24b3bdb4c964` |
+| 3편 System | [다운로드](<Madou Monogatari 1-2-3 (PC-98) KR v0.1.0 - Game 3 System.bps>) | `b5915c6aac3e4d5919093f15d9cf63525d2d4c795c44e266897c37a579664b56` | `8953a9dc0059519355236fbec85d22610aa6726564061df7da8f7e24ceadce84` |
+| 3편 Sampling | [다운로드](<Madou Monogatari 1-2-3 (PC-98) KR v0.1.0 - Game 3 Sampling.bps>) | `b3c5b86d8765f48e542949c1b685d38701a4507a86cbf243cca624acf33e5d42` | `91513825a5890f9b925935dd72f6b80024be54f339d9b8f374f16ca08dd2bf03` |
 
 ## 지원 원본
 
-합본 재발매판의 헤더 없는 HDM 플로피 이미지 일곱 장만 지원합니다. 파일명은 달라도 되지만 크기와 SHA-256이 모두 일치해야 합니다. `.hdi` 하드디스크 이미지나 D88 변환본은 지원하지 않습니다.
+합본 재발매판의 헤더 없는 System·Sampling HDM 여섯 장만 패치 입력으로 지원합니다. 파일명은 달라도 되지만 크기와 SHA-256이 모두 일치해야 합니다. `.hdi` 하드디스크 이미지나 D88 변환본은 지원하지 않습니다.
 
-모든 디스크의 크기는 `1,261,568`바이트입니다.
+모든 패치 입력 HDM의 크기는 `1,261,568`바이트입니다.
 
 | 디스크 | SHA-256 |
 | --- | --- |
@@ -29,11 +33,10 @@ BPS 파일과 적용 후 체크섬은 베타 빌드가 확정되면 이 디렉�
 | 2편 Sampling | `b1152cae40f580a91cc9fae3316e28e3cfccdbd5ed071ea083c481684a9ac440` |
 | 3편 System | `7fbd6492ab8dbd3ba09f6bcb4f0a363474b3465f9f4d13ff6dd8922119243d88` |
 | 3편 Sampling | `8fd0bd0cc3be6716c32554c5ba8c01ff6f0e72cd4d90b56efa67c8e31a7fdecb` |
-| Data | `77e48a6a6c7729d88577110f1082104b6f79dd269462bbfdcc5f5b396dfc630a` |
 
 ## 적용 방법
 
-1. 원본 HDM 일곱 장을 별도 위치에 백업합니다.
+1. 패치할 원본 HDM 여섯 장을 별도 위치에 백업합니다.
 2. [Floating IPS](https://www.smwcentral.net/?p=section&a=details&id=11474) 등 BPS 패처를 준비합니다.
 3. 각 편의 System 원본에는 같은 편의 System BPS를 적용하고, Sampling 원본에는 같은 편의 Sampling BPS를 적용합니다.
 4. 원본과 구분되는 새 파일명으로 결과를 저장합니다. 원본 디스크에 직접 덮어쓰지 마세요.
