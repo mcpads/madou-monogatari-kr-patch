@@ -381,6 +381,7 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 
 - 시나리오/이벤트 대사 및 시스템 UI 한글화
 - 한글 폰트: [Dalmoori](https://github.com/RanolP/dalmoori-font) 8px 비트맵
+- [패쳐 코드베이스](https://github.com/mcpads/gg-madou1-kr-patcher)
 
 ### 크레딧
 
@@ -455,6 +456,7 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 
 - 시나리오/이벤트 대사 번역, 시스템 UI 한글화
 - 한글 폰트: [Dalmoori](https://github.com/RanolP/dalmoori-font) 8px 비트맵
+- [패쳐 코드베이스](https://github.com/mcpads/gg-madou2-kr-patcher)
 
 ### 크레딧
 
@@ -526,6 +528,7 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 
 - 시나리오/이벤트 대사 번역, 시스템 UI 한글화
 - 한글 폰트: [Dalmoori](https://github.com/RanolP/dalmoori-font) 8px 비트맵
+- [패쳐 코드베이스](https://github.com/mcpads/gg-madou3-kr-patcher)
 
 ### 크레딧
 
@@ -590,6 +593,7 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 - 일본판 원본에 직접 적용하는 JP→KR BPS
 - 시나리오/이벤트 대사 번역, 시스템 UI 한글화
 - 한글 폰트: [Dalmoori](https://github.com/RanolP/dalmoori-font) 8px 비트맵
+- [패쳐 코드베이스](https://github.com/mcpads/gg-madoua-kr-patcher)
 
 ### 크레딧
 
@@ -655,6 +659,7 @@ PC 엔진 CD-ROM² **마도물어 I - 불꽃의 꼬마 졸업생 (魔導物語I 
 - 시나리오·시스템 UI·컷신 자막·타이틀 한글화
 - 일반 대사·메뉴 한글 폰트: [Neo둥근모](https://neodgm.dalgona.dev/) 16px 비트맵
 - 컷신 자막 한글 폰트: Maplestory Bold
+- [패쳐 코드베이스](https://github.com/mcpads/pce-madou1-kr-patcher)
 
 ### 크레딧
 
