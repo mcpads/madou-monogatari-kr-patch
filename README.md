@@ -79,7 +79,7 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 
 - 일본판 원본에 직접 적용하는 JP→KR 패치
 - 한글 폰트: [Neo둥근모](https://neodgm.dalgona.dev/), [Galmuri](https://github.com/quiple/galmuri)
-- [v1 패쳐 코드베이스](https://github.com/mcpads/md-madou-kr-patcher)
+- [패쳐 코드베이스](https://github.com/mcpads/md-madou-kr-patcher)
 
 ### 크레딧
 
