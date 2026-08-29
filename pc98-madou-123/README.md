@@ -6,20 +6,15 @@ PC-98용 합본 재발매판 *마도물어 1-2-3*에 적용하는 한글 번역 
 
 > 이 패치는 베타 버전입니다. 번역과 전체 진행 검수가 끝나지 않았으며, 미번역 요소나 진행에 영향을 주는 문제가 남아 있을 수 있습니다. 문제를 발견하면 편·장면·사용한 에뮬레이터와 함께 제보해 주세요.
 
-## 배포 형식
+## 배포 파일
 
-이 패치는 원본 디스크나 패치 완료 디스크를 포함하지 않습니다. 각 원본 HDM에 적용하는 BPS 파일 여섯 개로 배포합니다.
+| 다운로드 | SHA-256 |
+| --- | --- |
+| [Madou Monogatari 1-2-3 (PC-98) KR v0.1.0.zip](<Madou Monogatari 1-2-3 (PC-98) KR v0.1.0.zip>) | `d8ae46c03007be3d4a87a052cecf577f3ff5c46963b1b2633e65c65da201ba68` |
+
+패치 세트 ZIP은 압축을 풀지 않고 웹 패처에서 그대로 선택합니다.
 
 Data 디스크에는 패치를 적용하지 않습니다. 후반부와 엔딩에서 요구하면 원본을 그대로 사용합니다.
-
-| 대상 | BPS | BPS SHA-256 | 적용 후 HDM SHA-256 |
-| --- | --- | --- | --- |
-| 1편 System | [다운로드](<Madou Monogatari 1-2-3 (PC-98) KR v0.1.0 - Game 1 System.bps>) | `3eea352b2c064c6f910e70646920f6f3c33fef2917a04f9267efa16540326f18` | `b77268ec3c45fcefc0e0131df0d51d0dd067d1713068242fa373798752681af2` |
-| 1편 Sampling | [다운로드](<Madou Monogatari 1-2-3 (PC-98) KR v0.1.0 - Game 1 Sampling.bps>) | `a0fe5b56dd519a568f2dc94700785f57dd6e277f55eb0fe82be4df536a9fe682` | `d8c56c87b1fc0a491e2774b7a39f7028ac2d1ef03e37507dd4318955cc92902d` |
-| 2편 System | [다운로드](<Madou Monogatari 1-2-3 (PC-98) KR v0.1.0 - Game 2 System.bps>) | `324874b5017c5ec254be0c2db2fd6cb94df50c73234644b30e1aa854e73d1978` | `7a40885023d0cad364c37655eb5a20808a02c0f58e46726d4771dbe6209eb283` |
-| 2편 Sampling | [다운로드](<Madou Monogatari 1-2-3 (PC-98) KR v0.1.0 - Game 2 Sampling.bps>) | `9aec1c7bab4e23cd59480540dbdf2875ace30d4ecd77746e4be3ae15433590f7` | `44992499eb2fb282d8a3c90228a9c8630a3b9d9c88cb849e2b4e24b3bdb4c964` |
-| 3편 System | [다운로드](<Madou Monogatari 1-2-3 (PC-98) KR v0.1.0 - Game 3 System.bps>) | `b5915c6aac3e4d5919093f15d9cf63525d2d4c795c44e266897c37a579664b56` | `8953a9dc0059519355236fbec85d22610aa6726564061df7da8f7e24ceadce84` |
-| 3편 Sampling | [다운로드](<Madou Monogatari 1-2-3 (PC-98) KR v0.1.0 - Game 3 Sampling.bps>) | `b3c5b86d8765f48e542949c1b685d38701a4507a86cbf243cca624acf33e5d42` | `91513825a5890f9b925935dd72f6b80024be54f339d9b8f374f16ca08dd2bf03` |
 
 ## 지원 원본
 
@@ -39,13 +34,15 @@ Data 디스크에는 패치를 적용하지 않습니다. 후반부와 엔딩에
 ## 적용 방법
 
 1. 패치할 원본 HDM 여섯 장을 별도 위치에 백업합니다.
-2. [Floating IPS](https://www.smwcentral.net/?p=section&a=details&id=11474) 등 BPS 패처를 준비합니다.
-3. 각 편의 System 원본에는 같은 편의 System BPS를 적용하고, Sampling 원본에는 같은 편의 Sampling BPS를 적용합니다.
-4. 원본과 구분되는 새 파일명으로 결과를 저장합니다. 원본 디스크에 직접 덮어쓰지 마세요.
-5. BPS 패처가 원본 불일치를 보고하면 적용을 중단하고 위 SHA-256을 다시 확인합니다.
-6. 배포본에 적힌 적용 후 SHA-256과 결과가 일치하는지 확인한 뒤 실행합니다.
+2. 위의 패치 세트 ZIP을 다운로드합니다.
+3. [RetroGame Patcher](https://patcher.retrogame.cloud/)를 엽니다.
+4. 패치 세트 ZIP을 먼저 선택한 다음 원본 HDM 여섯 장을 선택합니다. 여러 장을 한 번에 선택하거나 빠진 디스크를 나중에 추가해도 됩니다.
+5. 여섯 원본이 모두 인식되면 **검사하고 적용하기**를 누릅니다.
+6. 적용이 끝나면 완성된 System·Sampling HDM 여섯 장을 내려받습니다.
 
-한 편의 System과 다른 편의 Sampling을 섞거나, 서로 다른 패치 버전의 디스크를 함께 사용하지 마세요.
+파일명과 선택 순서는 상관없으며, 패처가 SHA-256으로 각 디스크를 대응합니다. 패치 ZIP과 원본·결과 HDM은 서버로 전송되지 않고 브라우저 안에서 처리됩니다.
+
+[웹 패처 소스 코드](https://github.com/mcpads/pc98-fat12-patcher-tool)
 
 ## 실행 방법
 

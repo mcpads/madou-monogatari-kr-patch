@@ -131,7 +131,7 @@ Disc Station 3호 수록작 《마도물어 ~도초이문~》의 PC-98 한글 �
 
 ## 마도물어 1-2-3 — PC-98 (베타)
 
-PC-98 합본 재발매판용 한글 번역 베타 패치입니다. 여섯 장의 System·Sampling HDM에 각각 BPS를 적용하며, 후반부에는 원본 Data 디스크를 사용합니다.
+PC-98 합본 재발매판용 한글 번역 베타 패치입니다. 웹 패처에서 System·Sampling 원본 HDM 여섯 장을 한 번에 적용하며, 후반부에는 원본 Data 디스크를 사용합니다.
 
 ![마도물어 1-2-3 — PC-98 대표 화면](/img/pc98-madou-123-title-runtime.png)
 
