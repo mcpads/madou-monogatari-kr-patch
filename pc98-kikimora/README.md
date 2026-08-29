@@ -12,7 +12,7 @@ Disc Station Vol. 07 수록작 《키키모라의 청소 대작전》의 PC-98 �
 
 | 다운로드 | SHA-256 |
 | --- | --- |
-| [Kikimora no Osouji Daisakusen (PC-98) KR v0.1.0.zip](<Kikimora no Osouji Daisakusen (PC-98) KR v0.1.0.zip>) | `0638d42c1993be02c56c6c6a995f74568a7867ce6c7e3aafc21db42e6525b69a` |
+| [Kikimora no Osouji Daisakusen (PC-98) KR v0.1.0.zip](<https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/pc98-kikimora/Kikimora%20no%20Osouji%20Daisakusen%20(PC-98)%20KR%20v0.1.0.zip>) | `0638d42c1993be02c56c6c6a995f74568a7867ce6c7e3aafc21db42e6525b69a` |
 
 패치 ZIP은 압축을 풀지 않고 웹 패처에서 그대로 선택합니다.
 

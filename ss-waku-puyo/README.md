@@ -17,7 +17,7 @@
 ## 적용 방법
 
 1. **원본 ROM**을 준비합니다 (BIN/CUE 형식, 아래 체크섬으로 올바른 파일인지 확인)
-2. [Waku Waku Puyo Puyo Dungeon (Sega Saturn) KR v0.2.0.bps](<Waku Waku Puyo Puyo Dungeon (Sega Saturn) KR v0.2.0.bps>)를 다운로드합니다
+2. [Waku Waku Puyo Puyo Dungeon (Sega Saturn) KR v0.2.0.bps](<https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/ss-waku-puyo/Waku%20Waku%20Puyo%20Puyo%20Dungeon%20(Sega%20Saturn)%20KR%20v0.2.0.bps>)를 다운로드합니다
 3. [Floating IPS (Flips)](https://www.smwcentral.net/?p=section&a=details&id=11474) 등 BPS 패처로 원본 BIN 파일(Track 1)에 한글 패치를 적용합니다
 
 ## 체크섬

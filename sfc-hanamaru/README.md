@@ -15,7 +15,7 @@
 ## 적용 방법
 
 1. **일본판 원본 ROM**을 준비합니다 (아래 체크섬으로 올바른 파일인지 확인)
-2. [Madou Monogatari - Hanamaru Daiyouchienji (KR v1.4.0).bps](<Madou Monogatari - Hanamaru Daiyouchienji (KR v1.4.0).bps>)를 다운로드합니다
+2. [Madou Monogatari - Hanamaru Daiyouchienji (KR v1.4.0).bps](<https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/sfc-hanamaru/Madou%20Monogatari%20-%20Hanamaru%20Daiyouchienji%20(KR%20v1.4.0).bps>)를 다운로드합니다
 3. [Floating IPS (Flips)](https://www.smwcentral.net/?p=section&a=details&id=11474) 등 BPS 패처로 원본 ROM에 한글 패치를 적용합니다
 
 ## 체크섬

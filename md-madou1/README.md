@@ -15,7 +15,7 @@
 ## 적용 방법
 
 1. **일본판 원본 ROM**을 준비합니다 (아래 체크섬으로 올바른 파일인지 확인)
-2. [Madou Monogatari I (Mega Drive) KR v2.0.0.bps](<Madou Monogatari I (Mega Drive) KR v2.0.0.bps>)를 다운로드합니다
+2. [Madou Monogatari I (Mega Drive) KR v2.0.0.bps](<https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/md-madou1/Madou%20Monogatari%20I%20(Mega%20Drive)%20KR%20v2.0.0.bps>)를 다운로드합니다
 3. [Floating IPS (Flips)](https://www.smwcentral.net/?p=section&a=details&id=11474) 등 BPS 패처로 일본판 원본 ROM에 한글 패치를 적용합니다
 
 ## 체크섬

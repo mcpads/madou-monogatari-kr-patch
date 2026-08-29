@@ -15,7 +15,7 @@
 ## 적용 방법
 
 1. **일본판 원본 ROM**을 준비합니다 (아래 체크섬으로 올바른 파일인지 확인)
-2. [Arle no Bouken - Mahou no Jewel (GBC) KR v0.1.0.bps](<Arle no Bouken - Mahou no Jewel (GBC) KR v0.1.0.bps>)를 다운로드합니다
+2. [Arle no Bouken - Mahou no Jewel (GBC) KR v0.1.0.bps](<https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/gbc-arle-no-bouken/Arle%20no%20Bouken%20-%20Mahou%20no%20Jewel%20(GBC)%20KR%20v0.1.0.bps>)를 다운로드합니다
 3. [Floating IPS (Flips)](https://www.smwcentral.net/?p=section&a=details&id=11474) 등 BPS 패처로 일본판 원본 ROM에 한글 패치를 적용합니다
 
 ## 체크섬

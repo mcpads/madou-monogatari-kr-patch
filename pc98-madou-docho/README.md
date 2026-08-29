@@ -14,7 +14,7 @@ Disc Station 3호 수록작 《마도물어 ~도초이문~》의 PC-98 한글 �
 
 | 다운로드 | SHA-256 |
 | --- | --- |
-| [Madou Monogatari - Michikusa Ibun (PC-98) KR v1.0.0.zip](<Madou Monogatari - Michikusa Ibun (PC-98) KR v1.0.0.zip>) | `7789bea08a802693c98c2effaea30ab57ce89e2d9d6d5e2a281a2d8bdf90ecd6` |
+| [Madou Monogatari - Michikusa Ibun (PC-98) KR v1.0.0.zip](<https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/pc98-madou-docho/Madou%20Monogatari%20-%20Michikusa%20Ibun%20(PC-98)%20KR%20v1.0.0.zip>) | `7789bea08a802693c98c2effaea30ab57ce89e2d9d6d5e2a281a2d8bdf90ecd6` |
 
 패치 ZIP은 압축을 풀지 않고 웹 패처에서 그대로 선택합니다.
 

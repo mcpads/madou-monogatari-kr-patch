@@ -13,7 +13,7 @@ PC 엔진 CD-ROM² **마도물어 I - 불꽃의 꼬마 졸업생 (魔導物語I 
 ## 적용 방법
 
 1. 아래 체크섬과 일치하는 일본판 원본 32트랙 BIN/CUE를 준비합니다
-2. [Madou Monogatari I - Honoo no Sotsuenji (PC Engine CD) KR v1.0.1.bps](<Madou Monogatari I - Honoo no Sotsuenji (PC Engine CD) KR v1.0.1.bps>)를 다운로드합니다
+2. [Madou Monogatari I - Honoo no Sotsuenji (PC Engine CD) KR v1.0.1.bps](<https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/pce-madou1/Madou%20Monogatari%20I%20-%20Honoo%20no%20Sotsuenji%20(PC%20Engine%20CD)%20KR%20v1.0.1.bps>)를 다운로드합니다
 3. [Floating IPS (Flips)](https://github.com/Alcaro/Flips) 등 BPS 패처로 패치를 **원본 `(Track 02).bin`에만** 적용합니다. CUE, 전체 디스크 합본, ISO/2048 파일에는 적용하지 않습니다
 4. 패치 적용 후 파일을 원본 `(Track 02).bin`과 같은 이름으로 두면 기존 CUE를 그대로 사용할 수 있습니다. Track 01과 Track 03~32는 원본 그대로 유지합니다
 

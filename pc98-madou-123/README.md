@@ -10,7 +10,7 @@ PC-98용 합본 재발매판 *마도물어 1-2-3*에 적용하는 한글 번역 
 
 | 다운로드 | SHA-256 |
 | --- | --- |
-| [Madou Monogatari 1-2-3 (PC-98) KR v0.1.0.zip](<Madou Monogatari 1-2-3 (PC-98) KR v0.1.0.zip>) | `d8ae46c03007be3d4a87a052cecf577f3ff5c46963b1b2633e65c65da201ba68` |
+| [Madou Monogatari 1-2-3 (PC-98) KR v0.1.0.zip](<https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/pc98-madou-123/Madou%20Monogatari%201-2-3%20(PC-98)%20KR%20v0.1.0.zip>) | `d8ae46c03007be3d4a87a052cecf577f3ff5c46963b1b2633e65c65da201ba68` |
 
 패치 세트 ZIP은 압축을 풀지 않고 웹 패처에서 그대로 선택합니다.
 
