@@ -15,7 +15,7 @@
 ## 적용 방법
 
 1. **일본판 원본 ROM**을 준비합니다 (아래 체크섬으로 올바른 파일인지 확인)
-2. [Madou Monogatari II (Game Gear) KR v0.4.0.bps](https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/Madou%20Monogatari%20II%20(Game%20Gear)%20KR%20v0.4.0.bps)를 다운로드합니다
+2. [Madou Monogatari II (Game Gear) KR v0.4.0.bps](<Madou Monogatari II (Game Gear) KR v0.4.0.bps>)를 다운로드합니다
 3. [Floating IPS (Flips)](https://github.com/Alcaro/Flips) 등 BPS 패처로 **일본판 원본 ROM**에 한글 패치를 직접 적용합니다
 
 ## 체크섬
