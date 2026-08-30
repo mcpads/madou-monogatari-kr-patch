@@ -40,4 +40,4 @@ Disc Station Vol. 07 Disk 1의 다음 원본 HDM을 지원합니다.
 ## 패치 정보
 
 - 원본 설치기에서 필요한 게임 파일을 읽고 파일별 BPS를 적용해 독립 실행 HDM을 만듭니다.
-- [웹 패처 소스 코드](https://github.com/mcpads/pc98-fat12-patcher-tool)
+- [웹 패처 소스 코드](https://github.com/mcpads/retro-patcher)

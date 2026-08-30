@@ -54,4 +54,4 @@ PC-98용 《마도물어 A.R.S》의 한글 번역 베타 패치입니다.
 ## 패치 정보
 
 - 일곱 원본에서 필요한 게임 파일을 읽고 파일별 BPS를 적용해 각각의 완성 HDM을 만듭니다.
-- [웹 패처 소스 코드](https://github.com/mcpads/pc98-fat12-patcher-tool)
+- [웹 패처 소스 코드](https://github.com/mcpads/retro-patcher)

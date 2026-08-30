@@ -42,7 +42,7 @@ Data 디스크에는 패치를 적용하지 않습니다. 후반부와 엔딩에
 
 파일명과 선택 순서는 상관없으며, 패처가 SHA-256으로 각 디스크를 대응합니다. 패치 ZIP과 원본·결과 HDM은 서버로 전송되지 않고 브라우저 안에서 처리됩니다.
 
-[웹 패처 소스 코드](https://github.com/mcpads/pc98-fat12-patcher-tool)
+[웹 패처 소스 코드](https://github.com/mcpads/retro-patcher)
 
 ## 실행 방법
 
