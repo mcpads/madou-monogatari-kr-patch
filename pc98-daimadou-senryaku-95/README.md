@@ -1,10 +1,8 @@
-# 대마도전략물어'95 — PC-98 (베타)
+# 대마도전략물어'95 — PC-98
 
 [전체 마도물어 한글 패치 목록으로 돌아가기](../README.md)
 
-Disc Station Vol. 08 수록작 《대마도전략물어'95》의 PC-98 한글 번역 베타 패치입니다.
-
-> ⚠️ **베타 배포 (v0.1.0)**: 번역과 그래픽은 이후 배포에서 변경될 수 있습니다.
+Disc Station Vol. 08 수록작 《대마도전략물어'95》의 PC-98 한글 번역 패치입니다.
 
 ![PC-98 대마도전략물어'95 한글 타이틀 화면](../img/pc98-daimadou-senryaku-95-title-runtime.png)
 
@@ -14,8 +12,8 @@ Disc Station Vol. 08 수록작 《대마도전략물어'95》의 PC-98 한글 �
 
 | 판본 | 설명 | 다운로드 | SHA-256 |
 | --- | --- | --- | --- |
-| 커스텀 아르르 | 새로 제작한 아르르 그래픽을 사용합니다. | [다운로드](<https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/pc98-daimadou-senryaku-95/Daimadou%20Senryaku%20Monogatari%20%2795%20(PC-98)%20KR%20v0.1.0%20Custom%20Arle.zip>) | `85afb099975fa093e16823a574d7c6324d131a02411b89942e94e03c46e27980` |
-| 원본 아르르 | 원작의 아르르 그래픽을 유지합니다. | [다운로드](<https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/pc98-daimadou-senryaku-95/Daimadou%20Senryaku%20Monogatari%20%2795%20(PC-98)%20KR%20v0.1.0%20Original%20Arle.zip>) | `ca702fd148f782488759aa231629b4c5ea618f0eeea7fcd8e152971cb6b1a042` |
+| 커스텀 아르르 | 새로 제작한 아르르 그래픽을 사용합니다. | [다운로드](<https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/pc98-daimadou-senryaku-95/Daimadou%20Senryaku%20Monogatari%20%2795%20(PC-98)%20KR%20v1.0.0%20Custom%20Arle.zip>) | `85afb099975fa093e16823a574d7c6324d131a02411b89942e94e03c46e27980` |
+| 원본 아르르 | 원작의 아르르 그래픽을 유지합니다. | [다운로드](<https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/pc98-daimadou-senryaku-95/Daimadou%20Senryaku%20Monogatari%20%2795%20(PC-98)%20KR%20v1.0.0%20Original%20Arle.zip>) | `ca702fd148f782488759aa231629b4c5ea618f0eeea7fcd8e152971cb6b1a042` |
 
 두 패키지 모두 한글 번역을 포함합니다. 패치 ZIP은 압축을 풀지 않고 웹 패처에서 그대로 선택합니다.
 
