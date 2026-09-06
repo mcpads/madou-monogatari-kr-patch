@@ -18,7 +18,7 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 | <a href="ss-waku-puyo/"><img src="img/thumb/ss-waku-puyo.png" alt="와쿠와쿠 뿌요뿌요 던전 — 세가 새턴 대표 화면" height="96"></a> | [와쿠와쿠 뿌요뿌요 던전](ss-waku-puyo/) | 세가 새턴 | v0.2.0 | ⚠️ 베타 | 2026-08-09 |
 | <a href="gg-madou1/"><img src="img/thumb/gg-madou1.png" alt="마도물어 I — 게임기어 대표 화면" height="96"></a> | [마도물어 I](gg-madou1/) | 게임기어 | v1.1.0 | 정식 | 2026-08-01 |
 | <a href="gg-madou2/"><img src="img/thumb/gg-madou2.png" alt="마도물어 II — 게임기어 대표 화면" height="96"></a> | [마도물어 II](gg-madou2/) | 게임기어 | v1.0.0 | 정식 | 2026-09-06 |
-| <a href="gg-madou3/"><img src="img/thumb/gg-madou3.png" alt="마도물어 III — 게임기어 대표 화면" height="96"></a> | [마도물어 III](gg-madou3/) | 게임기어 | v0.1.0 | ⚠️ 베타 | 2026-07-08 |
+| <a href="gg-madou3/"><img src="img/thumb/gg-madou3.png" alt="마도물어 III — 게임기어 대표 화면" height="96"></a> | [마도물어 III](gg-madou3/) | 게임기어 | v1.0.0 | 정식 | 2026-09-06 |
 | <a href="gg-madou-a/"><img src="img/thumb/gg-madou-a.png" alt="마도물어 A — 게임기어 대표 화면" height="96"></a> | [마도물어 A](gg-madou-a/) | 게임기어 | v0.1.0 | ⚠️ 베타 | 2026-07-11 |
 | <a href="pce-madou1/"><img src="img/thumb/pce-madou1.png" alt="마도물어 I — PC 엔진 CD 대표 화면" height="96"></a> | [마도물어 I](pce-madou1/) | PC 엔진 CD | v1.0.1 | 정식 | 2026-08-09 |
 | <a href="gbc-arle-no-bouken/"><img src="img/thumb/gbc-arle-no-bouken.png" alt="아르르의 모험 마법의 주얼 — 게임보이 컬러 대표 화면" height="96"></a> | [아르르의 모험 마법의 주얼](gbc-arle-no-bouken/) | 게임보이 컬러 | v0.1.0 | ⚠️ 베타 | 2026-08-23 |
