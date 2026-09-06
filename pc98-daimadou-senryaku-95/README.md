@@ -4,6 +4,8 @@
 
 Disc Station Vol. 08 수록작 《대마도전략물어'95》의 PC-98 한글 번역 패치입니다.
 
+> **정식 배포 (v1.0.0)**
+
 ![PC-98 대마도전략물어'95 한글 타이틀 화면](../img/pc98-daimadou-senryaku-95-title-runtime.png)
 
 ## 배포 파일

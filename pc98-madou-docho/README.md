@@ -4,6 +4,8 @@
 
 Disc Station 3호 수록작 《마도물어 ~도초이문~》의 PC-98 한글 번역 패치입니다.
 
+> **정식 배포 (v1.0.0)**
+
 ![마도물어 도초이문 한글 오프닝 화면](../img/pc98-madou-docho-opening.png)
 
 ![마도물어 도초이문 한글 타이틀 화면](../img/pc98-madou-docho-title.png)
