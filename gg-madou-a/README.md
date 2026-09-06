@@ -4,7 +4,7 @@
 
 세가 게임기어 **마도물어 A (魔導物語A どきどきばけ〜しょん)** 한글 번역 패치입니다.
 
-> ⚠️ **베타 배포 (v0.1.0)**: 전체 번역을 수록했으나 사람 최종 검수와 최종 인게임 검수가 진행 중입니다. 어색한 번역·표기·그래픽 문제나 진행 문제는 제보해 주세요.
+> **정식 배포 (v1.0.0)**
 
 참고: [마도물어 - 나무위키](https://namu.wiki/w/%EB%A7%88%EB%8F%84%EB%AC%BC%EC%96%B4)
 
@@ -15,7 +15,7 @@
 ## 적용 방법
 
 1. **일본판 원본 ROM**을 준비합니다 (아래 체크섬으로 올바른 파일인지 확인)
-2. [Madou Monogatari A (Game Gear) KR v0.1.0.bps](<https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/gg-madou-a/Madou%20Monogatari%20A%20(Game%20Gear)%20KR%20v0.1.0.bps>)를 다운로드합니다
+2. [Madou Monogatari A (Game Gear) KR v1.0.0.bps](<https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/gg-madou-a/Madou%20Monogatari%20A%20(Game%20Gear)%20KR%20v1.0.0.bps>)를 다운로드합니다
 3. [Floating IPS (Flips)](https://github.com/Alcaro/Flips) 등 BPS 패처로 **일본판 원본 ROM**에 한글 패치를 직접 적용합니다
 
 ## 체크섬
@@ -30,24 +30,24 @@
 | SHA-256  | `6679b88d3db2ca62a78b1904cfe8364f7e6d5d74ffda27b7dbe49417ed2d02ec` |
 | 크기     | 524,288 bytes (512 KB)                                             |
 
-### KR 패치 파일 — Madou Monogatari A (Game Gear) KR v0.1.0.bps
+### KR 패치 파일 — Madou Monogatari A (Game Gear) KR v1.0.0.bps
 
 | 알고리즘 | 해시                                                               |
 | -------- | ------------------------------------------------------------------ |
 | CRC32    | `2144DF1C`                                                         |
-| MD5      | `e7249d6db45b10c11b7acdfd5bf813d3`                                 |
-| SHA-1    | `f94b9c08f7169a218b636e23e8d5d6b9cc115db5`                         |
-| SHA-256  | `97b1ecfe99ea5f4e03daae0f68831b4f43449651c82086a571c1d7f26cc08d73` |
-| 크기     | 529,922 bytes (518 KB)                                             |
+| MD5      | `9f2feb98873c215b0e88c741f3179436`                                 |
+| SHA-1    | `9393a8b1975dd9fde819ce5b75de2e9a5d7706d9`                         |
+| SHA-256  | `597d64354b478c4581f4a7a4394363aa5b8c50becb9f888071415149dbeccd87` |
+| 크기     | 529,863 bytes (517 KB)                                             |
 
-### KR 패치 적용 후 — Madou Monogatari A (Game Gear) KR v0.1.0.gg
+### KR 패치 적용 후 — Madou Monogatari A (Game Gear) KR v1.0.0.gg
 
 | 알고리즘 | 해시                                                               |
 | -------- | ------------------------------------------------------------------ |
-| CRC32    | `A581A0DF`                                                         |
-| MD5      | `6d2b2c79f69231d01f83f75c43966efa`                                 |
-| SHA-1    | `fcac653b65b4c25684bb8254490d8c714176b801`                         |
-| SHA-256  | `79203d5f751db6540d708041531a23b0da694f00d88b995adac3a1404fe68bb3` |
+| CRC32    | `FDB4E9B0`                                                         |
+| MD5      | `000602bf37fcfa7a192959f2c8eea679`                                 |
+| SHA-1    | `de25b4fe7f1d96d5f11815aea0f0e1a15686176e`                         |
+| SHA-256  | `c94cf115d4a16303315f5f6c57cf2dc9e70fd286c5869e04b86a8f878235479c` |
 | 크기     | 1,048,576 bytes (1 MB)                                             |
 
 ## 패치 정보
