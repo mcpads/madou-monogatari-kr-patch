@@ -10,200 +10,32 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 
 ## 패치 목록
 
-| 게임 | 기종 | 버전 | 상태 | 최근 배포 |
-| --- | --- | --- | --- | --- |
-| [마도물어 I](md-madou1/) | 메가드라이브 | v2.0.0 | 정식 | 2026-08-02 |
-| [마도물어 하나마루 대유치원아](sfc-hanamaru/) | 슈퍼 패미컴 | v1.4.0 | 정식 | 2026-08-01 |
-| [마도물어](ss-madou/) | 세가 새턴 | v1.2.0 | 정식 | 2026-08-01 |
-| [와쿠와쿠 뿌요뿌요 던전](ss-waku-puyo/) | 세가 새턴 | v0.2.0 | ⚠️ 베타 | 2026-08-09 |
-| [마도물어 I](gg-madou1/) | 게임기어 | v1.1.0 | 정식 | 2026-08-01 |
-| [마도물어 II](gg-madou2/) | 게임기어 | v1.0.0 | 정식 | 2026-09-06 |
-| [마도물어 III](gg-madou3/) | 게임기어 | v0.1.0 | ⚠️ 베타 | 2026-07-08 |
-| [마도물어 A](gg-madou-a/) | 게임기어 | v0.1.0 | ⚠️ 베타 | 2026-07-11 |
-| [마도물어 I](pce-madou1/) | PC 엔진 CD | v1.0.1 | 정식 | 2026-08-09 |
-| [아르르의 모험 마법의 주얼](gbc-arle-no-bouken/) | 게임보이 컬러 | v0.1.0 | ⚠️ 베타 | 2026-08-23 |
-| [마도물어 1-2-3](pc98-madou-123/) | PC-98 | v0.1.0 | ⚠️ 베타 | 2026-08-29 |
-| [마도물어 도초이문](pc98-madou-docho/) | PC-98 | v1.0.0 | 정식 | 2026-08-28 |
-| [대마도전략물어'95](pc98-daimadou-senryaku-95/) | PC-98 | v1.0.0 | 정식 | 2026-09-06 |
-| [키키모라의 청소 대작전](pc98-kikimora/) | PC-98 | v0.1.0 | ⚠️ 베타 | 2026-08-28 |
-| [마도물어 A.R.S](pc98-madou-ars/) | PC-98 | v0.1.1 | ⚠️ 베타 | 2026-08-30 |
-| [마도 사오륙](pc98-madou-456/) | PC-98 | v0.1.0 | ⚠️ 베타 | 2026-08-31 |
-| [바요엔워즈 대마도전략물어](pc98-bayoen-wars/) | PC-98 | v0.1.0 | ⚠️ 베타 | 2026-09-01 |
+| 스크린샷 | 게임 | 기종 | 버전 | 상태 | 최근 배포 |
+| --- | --- | --- | --- | --- | --- |
+| <a href="md-madou1/"><img src="img/thumb/md-madou1.png" alt="마도물어 I — 메가드라이브 대표 화면" height="96"></a> | [마도물어 I](md-madou1/) | 메가드라이브 | v2.0.0 | 정식 | 2026-08-02 |
+| <a href="sfc-hanamaru/"><img src="img/thumb/sfc-hanamaru.png" alt="마도물어 하나마루 대유치원아 — 슈퍼 패미컴 대표 화면" height="96"></a> | [마도물어 하나마루 대유치원아](sfc-hanamaru/) | 슈퍼 패미컴 | v1.4.0 | 정식 | 2026-08-01 |
+| <a href="ss-madou/"><img src="img/thumb/ss-madou.png" alt="마도물어 — 세가 새턴 대표 화면" height="96"></a> | [마도물어](ss-madou/) | 세가 새턴 | v1.2.0 | 정식 | 2026-08-01 |
+| <a href="ss-waku-puyo/"><img src="img/thumb/ss-waku-puyo.png" alt="와쿠와쿠 뿌요뿌요 던전 — 세가 새턴 대표 화면" height="96"></a> | [와쿠와쿠 뿌요뿌요 던전](ss-waku-puyo/) | 세가 새턴 | v0.2.0 | ⚠️ 베타 | 2026-08-09 |
+| <a href="gg-madou1/"><img src="img/thumb/gg-madou1.png" alt="마도물어 I — 게임기어 대표 화면" height="96"></a> | [마도물어 I](gg-madou1/) | 게임기어 | v1.1.0 | 정식 | 2026-08-01 |
+| <a href="gg-madou2/"><img src="img/thumb/gg-madou2.png" alt="마도물어 II — 게임기어 대표 화면" height="96"></a> | [마도물어 II](gg-madou2/) | 게임기어 | v1.0.0 | 정식 | 2026-09-06 |
+| <a href="gg-madou3/"><img src="img/thumb/gg-madou3.png" alt="마도물어 III — 게임기어 대표 화면" height="96"></a> | [마도물어 III](gg-madou3/) | 게임기어 | v0.1.0 | ⚠️ 베타 | 2026-07-08 |
+| <a href="gg-madou-a/"><img src="img/thumb/gg-madou-a.png" alt="마도물어 A — 게임기어 대표 화면" height="96"></a> | [마도물어 A](gg-madou-a/) | 게임기어 | v0.1.0 | ⚠️ 베타 | 2026-07-11 |
+| <a href="pce-madou1/"><img src="img/thumb/pce-madou1.png" alt="마도물어 I — PC 엔진 CD 대표 화면" height="96"></a> | [마도물어 I](pce-madou1/) | PC 엔진 CD | v1.0.1 | 정식 | 2026-08-09 |
+| <a href="gbc-arle-no-bouken/"><img src="img/thumb/gbc-arle-no-bouken.png" alt="아르르의 모험 마법의 주얼 — 게임보이 컬러 대표 화면" height="96"></a> | [아르르의 모험 마법의 주얼](gbc-arle-no-bouken/) | 게임보이 컬러 | v0.1.0 | ⚠️ 베타 | 2026-08-23 |
+| <a href="pc98-madou-123/"><img src="img/thumb/pc98-madou-123.png" alt="마도물어 1-2-3 — PC-98 대표 화면" height="96"></a> | [마도물어 1-2-3](pc98-madou-123/) | PC-98 | v0.1.0 | ⚠️ 베타 | 2026-08-29 |
+| <a href="pc98-madou-docho/"><img src="img/thumb/pc98-madou-docho.png" alt="마도물어 도초이문 — PC-98 대표 화면" height="96"></a> | [마도물어 도초이문](pc98-madou-docho/) | PC-98 | v1.0.0 | 정식 | 2026-08-28 |
+| <a href="pc98-daimadou-senryaku-95/"><img src="img/thumb/pc98-daimadou-senryaku-95.png" alt="대마도전략물어'95 — PC-98 대표 화면" height="96"></a> | [대마도전략물어'95](pc98-daimadou-senryaku-95/) | PC-98 | v1.0.0 | 정식 | 2026-09-06 |
+| <a href="pc98-kikimora/"><img src="img/thumb/pc98-kikimora.png" alt="키키모라의 청소 대작전 — PC-98 대표 화면" height="96"></a> | [키키모라의 청소 대작전](pc98-kikimora/) | PC-98 | v0.1.0 | ⚠️ 베타 | 2026-08-28 |
+| <a href="pc98-madou-ars/"><img src="img/thumb/pc98-madou-ars.png" alt="마도물어 A.R.S — PC-98 대표 화면" height="96"></a> | [마도물어 A.R.S](pc98-madou-ars/) | PC-98 | v0.1.1 | ⚠️ 베타 | 2026-08-30 |
+| <a href="pc98-madou-456/"><img src="img/thumb/pc98-madou-456.png" alt="마도 사오륙 — PC-98 대표 화면" height="96"></a> | [마도 사오륙](pc98-madou-456/) | PC-98 | v0.1.0 | ⚠️ 베타 | 2026-08-31 |
+| <a href="pc98-bayoen-wars/"><img src="img/thumb/pc98-bayoen-wars.png" alt="바요엔워즈 대마도전략물어 — PC-98 대표 화면" height="96"></a> | [바요엔워즈 대마도전략물어](pc98-bayoen-wars/) | PC-98 | v0.1.0 | ⚠️ 베타 | 2026-09-01 |
+
+각 행의 스크린샷이나 게임 이름을 누르면 적용 방법과 체크섬이 있는 상세 안내로 이동합니다.
 
 - [번역 예정 작품](#번역-예정-작품)
 - [이슈 제보 및 피드백](#이슈-제보-및-피드백)
 - [업데이트 기록](CHANGELOG.md)
 - [라이선스](#라이선스)
-
-## 마도물어 I — 메가드라이브
-
-세가 메가드라이브(Genesis) **마도물어 I (魔導物語 I)** 한글 번역 패치입니다.
-
-> **정식 배포 (v2.0.0)**
-
-![마도물어 I — 메가드라이브 대표 화면](/img/md-madou-screenshot-1.png)
-
-[상세 안내 및 다운로드](md-madou1/)
-
-## 마도물어 하나마루 대유치원아 — 슈퍼 패미컴
-
-슈퍼 패미컴 **마도물어 하나마루 대유치원아** 한글 번역 패치입니다.
-
-> **정식 배포 (v1.4.0)**
-
-![마도물어 하나마루 대유치원아 — 슈퍼 패미컴 대표 화면](/img/snes-madou-screenshot-1.png)
-
-[상세 안내 및 다운로드](sfc-hanamaru/)
-
-## 마도물어 — 세가 새턴
-
-마도물어 **세가 새턴판** 한글 번역 패치입니다.
-
-> **정식 배포 (v1.2.0)**
-
-![마도물어 — 세가 새턴 대표 화면](/img/ss-madou-screenshot-1.png)
-
-[상세 안내 및 다운로드](ss-madou/)
-
-## 와쿠와쿠 뿌요뿌요 던전 — 세가 새턴
-
-**와쿠와쿠 뿌요뿌요 던전 (わくわくぷよぷよダンジョン) 세가 새턴 판** 한글 번역 PoC 패치입니다.
-
-> ⚠️ **베타 배포 (v0.2.0)**: 선공개용 베타로 번역 등의 검수가 끝나지 않았습니다.
-
-![와쿠와쿠 뿌요뿌요 던전 — 세가 새턴 대표 화면](/img/ss-waku-puyo-screenshot-1.png)
-
-[상세 안내 및 다운로드](ss-waku-puyo/)
-
-## 마도물어 I — 게임기어
-
-세가 게임기어 **마도물어 I (魔導物語 I - 3つの魔導球)** 한글 번역 패치입니다.
-
-> **정식 배포 (v1.1.0)**
-
-![마도물어 I — 게임기어 대표 화면](/img/gg-madou1-screenshot-1.png)
-
-[상세 안내 및 다운로드](gg-madou1/)
-
-## 마도물어 II — 게임기어
-
-세가 게임기어 **마도물어 II - 아르르 16세 (魔導物語 II - アルル16才)** 한글 번역 패치입니다.
-
-> **정식 배포 (v1.0.0)**
-
-![마도물어 II — 게임기어 대표 화면](/img/gg-madou2-screenshot-1.png)
-
-[상세 안내 및 다운로드](gg-madou2/)
-
-## 마도물어 III — 게임기어
-
-세가 게임기어 **마도물어 III - 궁극의 여왕님 (魔導物語 III - 究極の女王様)** 한글 번역 패치입니다.
-
-> ⚠️ **베타 배포 (v0.1.0)**: 게임 전반은 정상 플레이 가능하나 최종 인게임 검수가 진행 중입니다.
-
-![마도물어 III — 게임기어 대표 화면](/img/gg-madou3-screenshot-1.png)
-
-[상세 안내 및 다운로드](gg-madou3/)
-
-## 마도물어 A — 게임기어
-
-세가 게임기어 **마도물어 A (魔導物語A どきどきばけ〜しょん)** 한글 번역 패치입니다.
-
-> ⚠️ **베타 배포 (v0.1.0)**: 전체 번역을 수록했으나 사람 최종 검수와 인게임 검수가 진행 중입니다.
-
-![마도물어 A — 게임기어 대표 화면](/img/gg-madoua-screenshot-1.png)
-
-[상세 안내 및 다운로드](gg-madou-a/)
-
-## 마도물어 I — PC 엔진 CD
-
-PC 엔진 CD-ROM² **마도물어 I - 불꽃의 꼬마 졸업생 (魔導物語I 炎の卒園児)** 한글 번역 패치입니다.
-
-> **정식 배포 (v1.0.1)**
-
-![마도물어 I — PC 엔진 CD 대표 화면](/img/pce-cd-madou-screenshot-1.png)
-
-[상세 안내 및 다운로드](pce-madou1/)
-
-## 아르르의 모험 마법의 주얼 — 게임보이 컬러
-
-게임보이 컬러용 《아르르의 모험 마법의 주얼》 일본판 한글 번역 패치입니다.
-
-> ⚠️ **베타 배포 (v0.1.0)**: 시스템 안정성과 전체 플레이 검수가 진행 중입니다.
-
-![아르르의 모험 마법의 주얼 — 게임보이 컬러 대표 화면](/img/gbc-arle-screenshot-1.png)
-
-[상세 안내 및 다운로드](gbc-arle-no-bouken/)
-
-## 마도물어 1-2-3 — PC-98
-
-PC-98 합본 재발매판용 한글 번역 패치입니다. 웹 패처에서 System·Sampling 원본 HDM 여섯 장을 한 번에 적용하며, 후반부에는 원본 Data 디스크를 사용합니다.
-
-> ⚠️ **베타 배포 (v0.1.0)**: 번역과 전체 진행 검수가 끝나지 않았습니다.
-
-![마도물어 1-2-3 — PC-98 대표 화면](/img/pc98-madou-123-title-runtime.png)
-
-[상세 안내 및 다운로드](pc98-madou-123/)
-
-## 마도물어 도초이문 — PC-98
-
-Disc Station 3호 수록작 《마도물어 ~도초이문~》의 PC-98 한글 번역 패치입니다.
-
-> **정식 배포 (v1.0.0)**
-
-![마도물어 도초이문 — PC-98 대표 화면](/img/pc98-madou-docho-title.png)
-
-[상세 안내 및 다운로드](pc98-madou-docho/)
-
-## 대마도전략물어'95 — PC-98
-
-Disc Station Vol. 08 수록작 《대마도전략물어'95》의 PC-98 한글 번역 패치입니다.
-
-> **정식 배포 (v1.0.0)**
-
-![대마도전략물어'95 — PC-98 대표 화면](/img/pc98-daimadou-senryaku-95-title-runtime.png)
-
-[상세 안내 및 다운로드](pc98-daimadou-senryaku-95/)
-
-## 키키모라의 청소 대작전 — PC-98
-
-Disc Station Vol. 07 수록작 《키키모라의 청소 대작전》의 PC-98 한글 번역 패치입니다.
-
-> ⚠️ **베타 배포 (v0.1.0)**: 번역과 그래픽은 이후 배포에서 변경될 수 있습니다.
-
-![키키모라의 청소 대작전 — PC-98 대표 화면](/img/pc98-kikimora-title.png)
-
-[상세 안내 및 다운로드](pc98-kikimora/)
-
-## 마도물어 A.R.S — PC-98
-
-PC-98 플로피 디스크판 《마도물어 A.R.S》의 한글 번역 패치입니다. 웹 패처에서 Demo와 A/R/S Game·Data 원본 HDM 일곱 장에 한 번에 적용합니다.
-
-> ⚠️ **베타 배포 (v0.1.1)**: 번역과 그래픽은 이후 배포에서 변경될 수 있습니다.
-
-![마도물어 A.R.S — PC-98 대표 화면](/img/pc98-madou-ars-title.png)
-
-[상세 안내 및 다운로드](pc98-madou-ars/)
-
-## 마도 사오륙 — PC-98
-
-Disc Station Vol. 09 수록작 《마도 사오륙》의 PC-98 한글 번역 패치입니다. 웹 패처에서 원본 CD 이미지에 적용해 ISO를 만듭니다.
-
-> ⚠️ **베타 배포 (v0.1.0)**: 번역과 그래픽은 이후 배포에서 변경될 수 있습니다.
-
-![마도 사오륙 — PC-98 대표 화면](/img/pc98-madou-456-title.png)
-
-[상세 안내 및 다운로드](pc98-madou-456/)
-
-## 바요엔워즈 대마도전략물어 — PC-98
-
-Disc Station Vol. 05 수록작 《바요엔워즈 대마도전략물어》의 PC-98 한글 번역 패치입니다. 웹 패처에서 원본 Disk 1에 적용해 독립 실행 HDM을 만듭니다.
-
-> ⚠️ **베타 배포 (v0.1.0)**: 번역과 그래픽은 이후 배포에서 변경될 수 있습니다.
-
-![바요엔워즈 대마도전략물어 — PC-98 대표 화면](/img/pc98-bayoen-wars-title.png)
-
-[상세 안내 및 다운로드](pc98-bayoen-wars/)
 
 ## 번역 예정 작품
 
