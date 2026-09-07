@@ -28,7 +28,7 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 | <a href="pc98-kikimora/"><img src="img/thumb/pc98-kikimora.png" alt="키키모라의 청소 대작전 — PC-98 대표 화면" height="96"></a> | [키키모라의 청소 대작전](pc98-kikimora/) | PC-98 | v1.0.0 | 정식 | 2026-09-07 |
 | <a href="pc98-madou-ars/"><img src="img/thumb/pc98-madou-ars.png" alt="마도물어 A.R.S — PC-98 대표 화면" height="96"></a> | [마도물어 A.R.S](pc98-madou-ars/) | PC-98 | v1.0.0 | 정식 | 2026-09-07 |
 | <a href="pc98-madou-456/"><img src="img/thumb/pc98-madou-456.png" alt="마도 사오륙 — PC-98 대표 화면" height="96"></a> | [마도 사오륙](pc98-madou-456/) | PC-98 | v1.0.0 | 정식 | 2026-09-07 |
-| <a href="pc98-bayoen-wars/"><img src="img/thumb/pc98-bayoen-wars.png" alt="바요엔워즈 대마도전략물어 — PC-98 대표 화면" height="96"></a> | [바요엔워즈 대마도전략물어](pc98-bayoen-wars/) | PC-98 | v0.1.0 | ⚠️ 베타 | 2026-09-01 |
+| <a href="pc98-bayoen-wars/"><img src="img/thumb/pc98-bayoen-wars.png" alt="바요엔워즈 대마도전략물어 — PC-98 대표 화면" height="96"></a> | [바요엔워즈 대마도전략물어](pc98-bayoen-wars/) | PC-98 | v1.0.0 | 정식 | 2026-09-08 |
 
 각 행의 스크린샷이나 게임 이름을 누르면 적용 방법과 체크섬이 있는 상세 안내로 이동합니다.
 
