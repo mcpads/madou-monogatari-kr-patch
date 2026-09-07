@@ -4,15 +4,13 @@
 
 PC-98용 《마도물어 A.R.S》의 한글 번역 패치입니다.
 
-> ⚠️ **베타 배포 (v0.1.1)**: 번역과 그래픽은 이후 배포에서 변경될 수 있습니다.
-
 ![마도물어 A.R.S 한글 타이틀 화면](../img/pc98-madou-ars-title.png)
 
 ## 배포 파일
 
 | 다운로드 | SHA-256 |
 | --- | --- |
-| [Madou Monogatari A.R.S (PC-98) KR v0.1.1.zip](<https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/pc98-madou-ars/Madou%20Monogatari%20A.R.S%20(PC-98)%20KR%20v0.1.1.zip>) | `cd2bdaf91d09e6c218ecdef31ddcd6b35efc56cac40400504150f72b50f7a974` |
+| [Madou Monogatari A.R.S (PC-98) KR v1.0.0.zip](<https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/pc98-madou-ars/Madou%20Monogatari%20A.R.S%20(PC-98)%20KR%20v1.0.0.zip>) | `f3bf280cc4d997823023a40d42cc4d61ed1d4a6dda4ebbafc8e7a04bf276051e` |
 
 패치 세트 ZIP은 압축을 풀지 않고 웹 패처에서 그대로 선택합니다.
 

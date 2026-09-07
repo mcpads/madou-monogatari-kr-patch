@@ -4,15 +4,13 @@
 
 Disc Station Vol. 09 수록작 《마도 사오륙》의 PC-98 한글 번역 패치입니다.
 
-> ⚠️ **베타 배포 (v0.1.0)**: 번역과 그래픽은 이후 배포에서 변경될 수 있습니다.
-
 ![마도 사오륙 한글판 타이틀 화면](../img/pc98-madou-456-title.png)
 
 ## 배포 파일
 
 | 다운로드 | SHA-256 |
 | --- | --- |
-| [Madou 456 (PC-98) KR v0.1.0.zip](<https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/pc98-madou-456/Madou%20456%20(PC-98)%20KR%20v0.1.0.zip>) | `097a50ed5af9d1125938d19018c66f41521d76bdda0e720c6ba92629df1395d4` |
+| [Madou 456 (PC-98) KR v1.0.0.zip](<https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/pc98-madou-456/Madou%20456%20(PC-98)%20KR%20v1.0.0.zip>) | `0db3e34a3c89c0cde1016b8aba9fb6b50a85d5c6c1f9c189c6d40faa6996e791` |
 
 패치 ZIP은 압축을 풀지 않고 웹 패처에서 그대로 선택합니다.
 
@@ -31,7 +29,7 @@ Disc Station Vol. 09의 raw Mode 1/2352 CD 이미지를 지원합니다. 파일�
 3. [RetroGame Patcher](https://patcher.retrogame.cloud/)를 엽니다.
 4. 패치 ZIP을 먼저 선택한 다음 원본 CD 이미지를 선택합니다.
 5. 원본이 인식되면 **검사하고 적용하기**를 누릅니다.
-6. 적용이 끝나면 생성된 `madou456-ko-0.1.0.iso`를 내려받습니다.
+6. 적용이 끝나면 생성된 `madou456-ko-1.0.0.iso`를 내려받습니다.
 
 패치 ZIP과 원본·결과 이미지는 서버로 전송되지 않고 브라우저 안에서 처리됩니다.
 

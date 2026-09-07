@@ -4,15 +4,13 @@
 
 Disc Station Vol. 07 수록작 《키키모라의 청소 대작전》의 PC-98 한글 번역 패치입니다.
 
-> ⚠️ **베타 배포 (v0.1.0)**: 번역과 그래픽은 이후 배포에서 변경될 수 있습니다.
-
 ![PC-98 키키모라의 청소 대작전 한글 타이틀 화면](../img/pc98-kikimora-title.png)
 
 ## 배포 파일
 
 | 다운로드 | SHA-256 |
 | --- | --- |
-| [Kikimora no Osouji Daisakusen (PC-98) KR v0.1.0.zip](<https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/pc98-kikimora/Kikimora%20no%20Osouji%20Daisakusen%20(PC-98)%20KR%20v0.1.0.zip>) | `0638d42c1993be02c56c6c6a995f74568a7867ce6c7e3aafc21db42e6525b69a` |
+| [Kikimora no Osouji Daisakusen (PC-98) KR v1.0.0.zip](<https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/pc98-kikimora/Kikimora%20no%20Osouji%20Daisakusen%20(PC-98)%20KR%20v1.0.0.zip>) | `d0223e63082a20289db8689c8e80e04bf999be7ecd7a0212edf7e932f3650cc7` |
 
 패치 ZIP은 압축을 풀지 않고 웹 패처에서 그대로 선택합니다.
 
