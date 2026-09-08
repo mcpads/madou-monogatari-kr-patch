@@ -10,9 +10,9 @@ PC-98용 합본 재발매판 *마도물어 1-2-3*에 적용하는 한글 번역 
 
 | 다운로드 | SHA-256 |
 | --- | --- |
-| [Madou Monogatari 1-2-3 (PC-98) KR v1.0.0.zip](<https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/pc98-madou-123/Madou%20Monogatari%201-2-3%20(PC-98)%20KR%20v1.0.0.zip>) | `412e675aed43a5556e0d98ab13b630d586f26cadbe4e78041cc57a15e25bd4c7` |
+| [Madou Monogatari 1-2-3 (PC-98) KR v1.0.0.zip](<https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/pc98-madou-123/Madou%20Monogatari%201-2-3%20(PC-98)%20KR%20v1.0.0.zip>) | `66bdf884e7913ce3bfb3de1b9072153c173cb2f785169b1d79a968defef93fec` |
 
-ZIP을 풀면 System·Sampling 디스크용 BPS 여섯 개가 들어 있습니다.
+ZIP 하나로 System·Sampling 디스크 여섯 장을 한 번에 패치합니다.
 
 Data 디스크에는 패치를 적용하지 않습니다. 후반부와 엔딩에서 요구하면 원본을 그대로 사용합니다.
 
@@ -34,11 +34,10 @@ Data 디스크에는 패치를 적용하지 않습니다. 후반부와 엔딩에
 ## 적용 방법
 
 1. 패치할 원본 HDM 여섯 장을 별도 위치에 백업합니다.
-2. 위의 패치 ZIP을 다운로드하고 압축을 풉니다.
+2. 위의 패치 ZIP을 다운로드합니다.
 3. [RetroGame Patcher](https://patcher.retrogame.cloud/)를 엽니다.
-4. 각 BPS를 선택한 다음, 파일명에 표시된 편과 종류가 같은 원본 HDM을 선택합니다.
-5. **검사하고 적용하기**를 눌러 완성된 HDM을 내려받습니다.
-6. System·Sampling 여섯 장에 같은 과정을 반복합니다.
+4. 패치 ZIP 전체를 선택한 다음, 대응하는 원본 HDM 여섯 장을 선택합니다.
+5. **검사하고 적용하기**를 눌러 완성된 HDM 여섯 장을 내려받습니다.
 
 패치와 원본·결과 HDM은 서버로 전송되지 않고 브라우저 안에서 처리됩니다.
 
