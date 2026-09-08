@@ -21,7 +21,7 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 | <a href="gg-madou3/"><img src="img/thumb/gg-madou3.png" alt="마도물어 III — 게임기어 대표 화면" height="96"></a> | [마도물어 III](gg-madou3/) | 게임기어 | v1.0.0 | 정식 | 2026-09-06 |
 | <a href="gg-madou-a/"><img src="img/thumb/gg-madou-a.png" alt="마도물어 A — 게임기어 대표 화면" height="96"></a> | [마도물어 A](gg-madou-a/) | 게임기어 | v1.0.0 | 정식 | 2026-09-06 |
 | <a href="pce-madou1/"><img src="img/thumb/pce-madou1.png" alt="마도물어 I — PC 엔진 CD 대표 화면" height="96"></a> | [마도물어 I](pce-madou1/) | PC 엔진 CD | v1.0.1 | 정식 | 2026-08-09 |
-| <a href="gbc-arle-no-bouken/"><img src="img/thumb/gbc-arle-no-bouken.png" alt="아르르의 모험 마법의 주얼 — 게임보이 컬러 대표 화면" height="96"></a> | [아르르의 모험 마법의 주얼](gbc-arle-no-bouken/) | 게임보이 컬러 | v0.1.0 | ⚠️ 베타 | 2026-08-23 |
+| <a href="gbc-arle-no-bouken/"><img src="img/thumb/gbc-arle-no-bouken.png" alt="아르르의 모험 마법의 주얼 — 게임보이 컬러 대표 화면" height="96"></a> | [아르르의 모험 마법의 주얼](gbc-arle-no-bouken/) | 게임보이 컬러 | v0.2.0 | ⚠️ 베타 | 2026-09-08 |
 | <a href="pc98-madou-123/"><img src="img/thumb/pc98-madou-123.png" alt="마도물어 1-2-3 — PC-98 대표 화면" height="96"></a> | [마도물어 1-2-3](pc98-madou-123/) | PC-98 | v1.0.0 | 정식 | 2026-09-07 |
 | <a href="pc98-madou-docho/"><img src="img/thumb/pc98-madou-docho.png" alt="마도물어 도초이문 — PC-98 대표 화면" height="96"></a> | [마도물어 도초이문](pc98-madou-docho/) | PC-98 | v1.0.0 | 정식 | 2026-08-28 |
 | <a href="pc98-daimadou-senryaku-95/"><img src="img/thumb/pc98-daimadou-senryaku-95.png" alt="대마도전략물어'95 — PC-98 대표 화면" height="96"></a> | [대마도전략물어'95](pc98-daimadou-senryaku-95/) | PC-98 | v1.0.0 | 정식 | 2026-09-06 |
