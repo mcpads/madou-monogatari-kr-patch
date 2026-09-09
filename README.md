@@ -16,6 +16,7 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 | <a href="sfc-hanamaru/"><img src="img/thumb/sfc-hanamaru.png" alt="마도물어 하나마루 대유치원아 — 슈퍼 패미컴 대표 화면" height="96"></a> | [마도물어 하나마루 대유치원아](sfc-hanamaru/) | 슈퍼 패미컴 | v1.4.0 | 정식 | 2026-08-01 |
 | <a href="ss-madou/"><img src="img/thumb/ss-madou.png" alt="마도물어 — 세가 새턴 대표 화면" height="96"></a> | [마도물어](ss-madou/) | 세가 새턴 | v1.2.0 | 정식 | 2026-08-01 |
 | <a href="ss-waku-puyo/"><img src="img/thumb/ss-waku-puyo.png" alt="와쿠와쿠 뿌요뿌요 던전 — 세가 새턴 대표 화면" height="96"></a> | [와쿠와쿠 뿌요뿌요 던전](ss-waku-puyo/) | 세가 새턴 | v0.3.0 | ⚠️ 베타 | 2026-09-09 |
+| <a href="ps1-waku-puyo/"><img src="img/thumb/ps1-waku-puyo.png" alt="와쿠와쿠 뿌요뿌요 던전 완전판 — PlayStation 대표 화면" height="96"></a> | [와쿠와쿠 뿌요뿌요 던전 완전판](ps1-waku-puyo/) | PlayStation | v0.1.0 | ⚠️ 베타 | 2026-09-09 |
 | <a href="gg-madou1/"><img src="img/thumb/gg-madou1.png" alt="마도물어 I — 게임기어 대표 화면" height="96"></a> | [마도물어 I](gg-madou1/) | 게임기어 | v1.1.0 | 정식 | 2026-08-01 |
 | <a href="gg-madou2/"><img src="img/thumb/gg-madou2.png" alt="마도물어 II — 게임기어 대표 화면" height="96"></a> | [마도물어 II](gg-madou2/) | 게임기어 | v1.0.0 | 정식 | 2026-09-06 |
 | <a href="gg-madou3/"><img src="img/thumb/gg-madou3.png" alt="마도물어 III — 게임기어 대표 화면" height="96"></a> | [마도물어 III](gg-madou3/) | 게임기어 | v1.0.0 | 정식 | 2026-09-06 |
@@ -32,24 +33,9 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 
 각 행의 스크린샷이나 게임 이름을 누르면 적용 방법과 체크섬이 있는 상세 안내로 이동합니다.
 
-- [번역 예정 작품](#번역-예정-작품)
 - [이슈 제보 및 피드백](#이슈-제보-및-피드백)
 - [업데이트 기록](CHANGELOG.md)
 - [라이선스](#라이선스)
-
-## 번역 예정 작품
-
-### 와쿠와쿠 뿌요뿌요 던전 - 완전판 (PS1)
-
-진행 중입니다.
-
-- [x] 일본어 폰트 추출 및 테이블 완성
-- [x] 시나리오 텍스트 추출
-- [x] 시나리오 및 이벤트 대사 번역
-- [x] 한글 폰트 통합 및 적용
-- [x] 시스템 UI
-- [x] 시스템 안정성
-- [ ] 플레이 테스트 및 최종 검수
 
 ## 이슈 제보 및 피드백
 
