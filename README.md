@@ -31,27 +31,13 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 | <a href="pc98-madou-456/"><img src="img/thumb/pc98-madou-456.png" alt="마도 사오륙 — PC-98 대표 화면" height="96"></a> | [마도 사오륙](pc98-madou-456/) | PC-98 | v1.0.0 | 정식 | 2026-09-07 |
 | <a href="pc98-bayoen-wars/"><img src="img/thumb/pc98-bayoen-wars.png" alt="바요엔워즈 대마도전략물어 — PC-98 대표 화면" height="96"></a> | [바요엔워즈 대마도전략물어](pc98-bayoen-wars/) | PC-98 | v1.0.0 | 정식 | 2026-09-08 |
 | <a href="msx2-madou2/"><img src="img/thumb/msx2-madou2.png" alt="마도물어 II — MSX2 대표 화면" height="96"></a> | [마도물어 II](msx2-madou2/) | MSX2 | v0.1.0 | ⚠️ 베타 | 2026-09-24 |
+| <a href="msx2-lulba/"><img src="img/thumb/msx2-lulba.png" alt="마도사 랄바 — MSX2 대표 화면" height="96"></a> | [마도사 랄바](msx2-lulba/) | MSX2 | v0.1.0 | ⚠️ 베타 | 2026-09-25 |
 
 각 행의 스크린샷이나 게임 이름을 누르면 적용 방법과 체크섬이 있는 상세 안내로 이동합니다.
 
 - [이슈 제보 및 피드백](#이슈-제보-및-피드백)
-- [번역 예정 작품](#번역-예정-작품)
 - [업데이트 기록](CHANGELOG.md)
 - [라이선스](#라이선스)
-
-## 번역 예정 작품
-
-### 마도사 랄바 (MSX2)
-
-진행 중입니다. 대사·선택지와 그래픽 한글화를 반영했으며, 검수를 진행하고 있습니다.
-
-- [x] 일본어 폰트 추출 및 테이블 완성
-- [x] 시나리오 텍스트 추출
-- [x] 시나리오 및 이벤트 대사 번역 초안
-- [x] 한글 폰트 통합 및 적용
-- [ ] 시스템 UI
-- [ ] 시스템 안정성
-- [ ] 플레이 테스트 및 최종 검수
 
 ## 이슈 제보 및 피드백
 
