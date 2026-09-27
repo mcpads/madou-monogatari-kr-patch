@@ -22,7 +22,7 @@ PC-98용 《마도물어 A.R.S》의 한글 번역 패치입니다.
 - 셰죠편 무사의 공격 대사 누락, 최종 보스의 잔존 일본어와 상태 효과 종료 문구 수정
 - 일부 아이템 사용 결과와 전투 메시지 표시 수정
 
-[이슈 #21](https://github.com/mcpads/madou-monogatari-kr-patch/issues/21)에 버그를 제보하고 수정 자료를 제공해 주신 **[trusting7185](https://github.com/trusting7185)**님께 감사드립니다.
+[이슈 #21](https://github.com/mcpads/madou-monogatari-kr-patch/issues/21)에 버그를 제보하고 수정 자료를 제공해 주신 [**trusting7185**](https://github.com/trusting7185)님께 감사드립니다.
 
 기존 한글판이 아닌 일본판 원본 HDM에 적용하세요. 세이브용 User 디스크는 덮어쓰지 말고 별도로 보관하세요.
 
