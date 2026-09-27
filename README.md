@@ -27,7 +27,7 @@ Claude Code 및 Codex를 활용하여 리버싱/번역하고, 사람이 기초 �
 | <a href="pc98-madou-docho/"><img src="img/thumb/pc98-madou-docho.png" alt="마도물어 도초이문 — PC-98 대표 화면" height="96"></a> | [마도물어 도초이문](pc98-madou-docho/) | PC-98 | v1.0.0 | 정식 | 2026-08-28 |
 | <a href="pc98-daimadou-senryaku-95/"><img src="img/thumb/pc98-daimadou-senryaku-95.png" alt="대마도전략물어'95 — PC-98 대표 화면" height="96"></a> | [대마도전략물어'95](pc98-daimadou-senryaku-95/) | PC-98 | v1.0.0 | 정식 | 2026-09-06 |
 | <a href="pc98-kikimora/"><img src="img/thumb/pc98-kikimora.png" alt="키키모라의 청소 대작전 — PC-98 대표 화면" height="96"></a> | [키키모라의 청소 대작전](pc98-kikimora/) | PC-98 | v1.0.0 | 정식 | 2026-09-07 |
-| <a href="pc98-madou-ars/"><img src="img/thumb/pc98-madou-ars.png" alt="마도물어 A.R.S — PC-98 대표 화면" height="96"></a> | [마도물어 A.R.S](pc98-madou-ars/) | PC-98 | v1.0.0 | 정식 | 2026-09-07 |
+| <a href="pc98-madou-ars/"><img src="img/thumb/pc98-madou-ars.png" alt="마도물어 A.R.S — PC-98 대표 화면" height="96"></a> | [마도물어 A.R.S](pc98-madou-ars/) | PC-98 | v1.0.1 | 정식 | 2026-09-28 |
 | <a href="pc98-madou-456/"><img src="img/thumb/pc98-madou-456.png" alt="마도 사오륙 — PC-98 대표 화면" height="96"></a> | [마도 사오륙](pc98-madou-456/) | PC-98 | v1.0.0 | 정식 | 2026-09-07 |
 | <a href="pc98-bayoen-wars/"><img src="img/thumb/pc98-bayoen-wars.png" alt="바요엔워즈 대마도전략물어 — PC-98 대표 화면" height="96"></a> | [바요엔워즈 대마도전략물어](pc98-bayoen-wars/) | PC-98 | v1.0.0 | 정식 | 2026-09-08 |
 | <a href="msx2-madou2/"><img src="img/thumb/msx2-madou2.png" alt="마도물어 II — MSX2 대표 화면" height="96"></a> | [마도물어 II](msx2-madou2/) | MSX2 | v0.1.0 | ⚠️ 베타 | 2026-09-24 |

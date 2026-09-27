@@ -10,9 +10,21 @@ PC-98용 《마도물어 A.R.S》의 한글 번역 패치입니다.
 
 | 다운로드 | SHA-256 |
 | --- | --- |
-| [Madou Monogatari A.R.S (PC-98) KR v1.0.0.zip](<https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/pc98-madou-ars/Madou%20Monogatari%20A.R.S%20(PC-98)%20KR%20v1.0.0.zip>) | `f3bf280cc4d997823023a40d42cc4d61ed1d4a6dda4ebbafc8e7a04bf276051e` |
+| [Madou Monogatari A.R.S (PC-98) KR v1.0.1.zip](<https://raw.githubusercontent.com/mcpads/madou-monogatari-kr-patch/main/pc98-madou-ars/Madou%20Monogatari%20A.R.S%20(PC-98)%20KR%20v1.0.1.zip>) | `24220bcaab0e6d1485773d0072178a73dfd541d89170a088f54d83f199317c44` |
 
 패치 세트 ZIP은 압축을 풀지 않고 웹 패처에서 그대로 선택합니다.
+
+## 1.0.1 업데이트
+
+- 샘플링 설정이 초기화되는 문제와 피격 음성 처리 수정
+- 아르르편 폭발 달걀 사용 오류 수정
+- 루루편 7층 파키스타 상점의 디스크 오류와 아이템 판매 오류 수정
+- 셰죠편 무사의 공격 대사 누락, 최종 보스의 잔존 일본어와 상태 효과 종료 문구 수정
+- 일부 아이템 사용 결과와 전투 메시지 표시 수정
+
+[이슈 #21](https://github.com/mcpads/madou-monogatari-kr-patch/issues/21)에 버그를 제보하고 수정 자료를 제공해 주신 **[trusting7185](https://github.com/trusting7185)**님께 감사드립니다.
+
+기존 한글판이 아닌 일본판 원본 HDM에 적용하세요. 세이브용 User 디스크는 덮어쓰지 말고 별도로 보관하세요.
 
 ## 지원 원본
 
