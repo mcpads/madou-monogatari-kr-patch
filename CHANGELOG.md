@@ -66,3 +66,4 @@
 | v0.1.0 | 2026-09-24 | 마도물어 II (MSX2)                | 베타 배포 (BPS)                                                    |
 | v0.1.0 | 2026-09-25 | 마도사 랄바 (MSX2)                 | 베타 배포                                                          |
 | v1.0.1 | 2026-09-28 | 마도물어 A.R.S (PC-98) | 샘플링·아이템·상점·전투 대사 오류 수정 — 제보 및 수정 자료 제공: [trusting7185](https://github.com/trusting7185) ([#21](https://github.com/mcpads/madou-monogatari-kr-patch/issues/21)) |
+| v2.0.0-rc.0 | 2026-10-02 | 마도물어 (세가 새턴) | JP·US용 xdelta 릴리스 후보 배포, 기존 v1.2.0과 병행 제공 |
