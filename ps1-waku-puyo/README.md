@@ -28,7 +28,8 @@ xdelta3 -d -s "Waku Puyo Dungeon - Ketteiban (Japan).bin" "Waku Puyo Dungeon - K
 | 구분 | SHA-256 |
 | --- | --- |
 | 원본 BIN | `b27697f765658c7b5ef7fb795edc5418cb072f4eaacf275c1fce6fb01c919bc2` |
-| 패치 | `bde7fec55b038b7ce3d2e7b49b835eb89e2555bfc6d76f08375305994010db3c` |
+| 패치 파일 (xdelta) | `bde7fec55b038b7ce3d2e7b49b835eb89e2555bfc6d76f08375305994010db3c` |
+| 패치 후 BIN | `b5e64d3703c1907cc68b972ac859709464ac2c0210924bb306b1bc47493669ca` |
 
 ## 패치 정보
 
